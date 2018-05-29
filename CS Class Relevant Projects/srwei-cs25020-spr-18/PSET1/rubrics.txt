@@ -1,0 +1,13 @@
+2/2 Clear README file
+
+2/2 Alphabetizing each word
+
+2/2 Adding each word to dict/hash with alphabetized word as key
+
+2/2 Sorting output as requested
+
+2/2 Create appropriate output report
+
+Additional comments: Good
+
+____TOTAL____: 10/10
