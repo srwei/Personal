@@ -15,3 +15,6 @@ def get_ingredients():
     #return contents
     ingredients = re.findall(r'>([0-9].*?)</li>', str(contents))
     return recipe, ingredients
+
+def get_links():
+    url = f'https://www.simplyrecipes.com/'
