@@ -18,3 +18,5 @@ def get_ingredients():
 
 def get_links():
     url = f'https://www.simplyrecipes.com/'
+    req = urllib3.PoolManager()
+    res = req.request('GET', url)
