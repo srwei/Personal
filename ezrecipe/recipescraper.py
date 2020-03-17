@@ -7,6 +7,21 @@ from csv import DictReader, DictWriter
 from socket import error as SocketError
 from nltk.tokenize import sent_tokenize
 
+
+descriptions = ['baked', 'beaten', 'blanched', 'boiled', 'boiling', 'boned', 'breaded', 'brewed', 'broken', 'chilled',
+		'chopped', 'cleaned', 'coarse', 'cold', 'cooked', 'cool', 'cooled', 'cored', 'creamed', 'crisp', 'crumbled',
+		'crushed', 'cubed', 'cut', 'deboned', 'deseeded', 'diced', 'dissolved', 'divided', 'drained', 'dried', 'dry',
+		'fine', 'firm', 'fluid', 'fresh', 'frozen', 'grated', 'grilled', 'ground', 'halved', 'hard', 'hardened',
+		'heated', 'heavy', 'juiced', 'julienned', 'jumbo', 'large', 'lean', 'light', 'lukewarm', 'marinated',
+		'mashed', 'medium', 'melted', 'minced', 'near', 'opened', 'optional', 'packed', 'peeled', 'pitted', 'popped',
+		'pounded', 'prepared', 'pressed', 'pureed', 'quartered', 'refrigerated', 'rinsed', 'ripe', 'roasted',
+		'roasted', 'rolled', 'rough', 'scalded', 'scrubbed', 'seasoned', 'seeded', 'segmented', 'separated',
+		'shredded', 'sifted', 'skinless', 'sliced', 'slight', 'slivered', 'small', 'soaked', 'soft', 'softened',
+		'split', 'squeezed', 'stemmed', 'stewed', 'stiff', 'strained', 'strong', 'thawed', 'thick', 'thin', 'tied', 
+		'toasted', 'torn', 'trimmed', 'wrapped', 'vained', 'warm', 'washed', 'weak', 'zested', 'wedged',
+		'skinned', 'gutted', 'browned', 'patted', 'raw', 'flaked', 'deveined', 'shelled', 'shucked', 'crumbs',
+		'halves', 'squares', 'zest', 'peel', 'uncooked', 'butterflied', 'unwrapped', 'unbaked', 'warmed']
+
 prepositions = ['as', 'such', 'for', 'with', 'without', 'if', 'about', 'e.g.', 'in', 'into', 'at', 'until']
 
 measurement_units = ['teaspoons','tablespoons','cups','containers','packets','bags','quarts','pounds','cans','bottles',
@@ -52,12 +67,14 @@ def check_plurals(string, plural_list):
 def main():
     recipe_csv = open('recipes.csv', 'w')
     recipe_csv.truncate()
+    recipe_csv.close()
 
     output_text = open('output.txt', 'w')
     output_text.truncate()
 
     ingredients_csv = open('all_ingredients.csv', 'r')
     ingredients_csv.truncate()
+    ingredients_csv.close()
 
     description_regex = re.compile(r"\([^()]*\)")
 
@@ -161,7 +178,6 @@ def main():
             if descriptionString == "":
                 index+=1
             else:
-                ingredient["descriptions"].append(descriptionString)
                 parsed_ingredient.remove(word)
 
         
