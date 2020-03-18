@@ -37,6 +37,10 @@ succeeding_words = ['diagonally', 'lengthwise', 'overnight']
 
 description_preds = ['removed', 'discarded', 'reserved', 'included', 'inch', 'inches', 'old', 'temperature', 'up']
 
+hyphen_prefixes = ['non', 'reduced', 'semi', 'low']
+
+hyphen_suffixes = ['coated', 'free', 'flavored']
+
 
 def check_plurals_helper(string, plural_string):
     
@@ -157,30 +161,54 @@ def main():
 
                 # check previous word
                 if index > 0:
-                    previousWord = parsed_ingredient[index - 1]
-                    if previousWord in preceding_words or previousWord[-2:] == "ly":
-                        descriptionString = previousWord + " " + word
-                        parsed_ingredient.remove(previousWord)
+                    previous = parsed_ingredient[index - 1]
+                    if previous in preceding_words or previous[-2:] == "ly":
+                        descriptionString = previous + " " + word
+                        parsed_ingredient.remove(previous)
 
-                # check next word
+                # check next_word word
                 elif index + 1 < len(parsed_ingredient):
-                    nextWord = parsed_ingredient[index + 1]
-                    if nextWord in succeeding_words or nextWord[-2:] == "ly":
-                        descriptionString = word + " " + nextWord
-                        parsed_ingredient.remove(nextWord)
+                    next_word = parsed_ingredient[index + 1]
+                    if next_word in succeeding_words or next_word[-2:] == "ly":
+                        descriptionString = word + " " + next_word
+                        parsed_ingredient.remove(next_word)
 
             # word not in descriptions, check if description with predecessor
             elif word in description_preds and index > 0:
                 descriptionString = parsed_ingredient[index - 1] + " " + word
                 del parsed_ingredient[index - 1]
             
-            # either add description string to descriptions or check next word
+            # either add description string to descriptions or check next_word word
             if descriptionString == "":
                 index+=1
             else:
                 parsed_ingredient.remove(word)
 
+        while "and" in parsed_ingredient:
+            parsed_ingredient.remove("and")
+
+        if parsed_ingredient[-1] == "or":
+            del parsed_ingredient[-1]
+
+        for word in parsedIngredient:
+			for suffix in hyphen_suffixes:
+				if suffix in word:
+					word=word.replace(suffix, "-" + suffix)
+				
+			for hypenatedPrefix in hyphen_prefixes:
+				if word.find(prefix) == 0:
+					word=word.replace(prefix, prefix + "-")
+
+        if "powder" in parsed_ingredient and \
+			("coffee" in parsed_ingredient or \
+				"espresso" in parsed_ingredient or \
+				"tea" in parsed_ingredient):
+			parsed_ingredient.remove("powder")
+
         
+        
+        
+
         
 
 
