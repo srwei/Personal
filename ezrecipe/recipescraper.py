@@ -81,15 +81,19 @@ def main():
     output_text = open('output.txt', 'w')
     output_text.truncate()
 
-    ingredients_csv = open('all_ingredients.csv', 'r')
-    all_ingredients = ingredients_csv.read().split("\n")
+    ingredients_csv = open('all_ingredients.csv', 'w')
     ingredients_csv.truncate()
     ingredients_csv.close()
 
+    all_ingredients = []
+    all_recipes = []
+    all_recipe_ingredients = []
+
     description_regex = re.compile(r"\([^()]*\)")
 
-    for recipe_id in range(6660, 27000):
-
+    # for recipe_id in range(6660, 27000):
+    for recipe_id in range(6660, 9000):
+        print("trying recipe id: {}".format(recipe_id))
         soup = None
         try:
             url = "http://allrecipes.com/recipe/{}".format(recipe_id)
@@ -99,13 +103,13 @@ def main():
 
         except requests.exceptions.HTTPError as e:
             output_text.write("{0}: No recipe".format(recipe_id))
-            output_text.write(e)
+            # output_text.write(e.response.content)
         except requests.exceptions.ConnectionError as e:
             output_text.write("{0}: CONNECTION ERROR".format(recipe_id))
-            output_text.write(e)
+            # output_text.write(e.response.content)
         except SocketError as e:
             output_text.write("{0}: SOCKET ERROR".format(recipe_id))
-            output_text.write(e)
+            # output_text.write(e.response.content)
 
         if soup:
             title_span = soup.find("h1", class_="recipe-summary__h1")
@@ -116,8 +120,10 @@ def main():
             footnotes_span = soup.find_all("section", class_="recipe-footnotes")
 
         # get title
+            if not title_span:
+                continue
             title = title_span.text
-
+            all_recipes.append(title)
 
             # get ingredients
             num_ingredients = len(ingredients_object) - 3
@@ -240,6 +246,9 @@ def main():
                 plural_bool = check_plurals(ingredient_str, all_ingredients)
                 if not plural_bool:
                     all_ingredients.append(ingredient_str)
+                    all_recipe_ingredients.append([title, ingredient_str])
+        
+                 
 
 def test(recipe_id):
     all_ingredients = []
@@ -408,7 +417,7 @@ def test(recipe_id):
         print("------------------------------------")
         
 
-
-
+if __name__== "__main__":
+    main()
 
         
