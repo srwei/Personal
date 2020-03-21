@@ -92,7 +92,7 @@ def main():
     description_regex = re.compile(r"\([^()]*\)")
 
     # for recipe_id in range(6660, 27000):
-    for recipe_id in range(6660, 9000):
+    for recipe_id in range(7000, 8000):
         print("trying recipe id: {}".format(recipe_id))
         soup = None
         try:
