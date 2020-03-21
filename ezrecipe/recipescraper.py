@@ -85,6 +85,10 @@ def main():
     ingredients_csv.truncate()
     ingredients_csv.close()
 
+    all_ingredients_csv = open('all_recipe_ingredients.csv', 'w')
+    all_ingredients_csv.truncate()
+    all_ingredients_csv.close()
+
     all_ingredients = []
     all_recipes = []
     all_recipe_ingredients = []
@@ -92,7 +96,7 @@ def main():
     description_regex = re.compile(r"\([^()]*\)")
 
     # for recipe_id in range(6660, 27000):
-    for recipe_id in range(7000, 8000):
+    for recipe_id in range(7000, 7100):
         print("trying recipe id: {}".format(recipe_id))
         soup = None
         try:
@@ -248,7 +252,20 @@ def main():
                     all_ingredients.append(ingredient_str)
                     all_recipe_ingredients.append([title, ingredient_str])
         
-                 
+    with open("all_ingredients.csv", "w") as f:
+        wr = csv.writer(f, delimiter="\n")
+        for i in all_ingredients:
+            wr.writerow(i)
+
+    with open("recipes.csv", "w") as f:
+        wr = csv.writer(f, delimiter="\n")
+        for r in all_recipes:
+            wr.writerow(r)
+
+    with open("all_recipe_ingredients.csv", "w") as f:
+        wr = csv.writer(f, delimiter="\n")
+        for r in all_recipe_ingredients:
+            wr.writerow(r)
 
 def test(recipe_id):
     all_ingredients = []
