@@ -21,8 +21,10 @@ try:
     create_recipe_ingredients_table_query = "CREATE TABLE recipe_ingredients ( \
                                             recipe_ingredient_id INTEGER PRIMARY KEY, \
                                             recipe_id INTEGER, \
-                                            ingredient_id INTEGER \
-                                            )"
+                                            ingredient_id INTEGER, \
+                                            recipe_name TEXT \
+                                            ingredient_name TEXT \
+                                            )" 
 
     # Print PostgreSQL version
     cursor.execute(create_recipe_table_query)

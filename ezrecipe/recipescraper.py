@@ -94,6 +94,7 @@ def main():
     all_recipe_ingredients = []
 
     description_regex = re.compile(r"\([^()]*\)")
+    ingredientId_increment = 1
 
     # for recipe_id in range(6660, 27000):
     for recipe_id in range(7000, 9000):
@@ -129,7 +130,7 @@ def main():
             if not title_span:
                 continue
             title = title_span.text
-            all_recipes.append(title)
+            all_recipes.append([recipe_id, title])
 
             # get ingredients
             num_ingredients = len(ingredients_object) - 3
@@ -251,18 +252,19 @@ def main():
 
                 plural_bool = check_plurals(ingredient_str, all_ingredients)
                 if not plural_bool:
-                    all_ingredients.append(ingredient_str)
-                    all_recipe_ingredients.append([title, ingredient_str])
+                    all_ingredients.append([ingredientId_increment, ingredient_str])
+                    all_recipe_ingredients.append([recipe_id, ingredientId_increment, title, ingredient_str])
+                    ingredientId_increment += 1
         
     with open("all_ingredients.csv", "w") as f:
         wr = csv.writer(f)
         for i in all_ingredients:
-            wr.writerow([i])
+            wr.writerow(i)
 
     with open("recipes.csv", "w") as f:
         wr = csv.writer(f)
         for r in all_recipes:
-            wr.writerow([r])
+            wr.writerow(r)
 
     with open("all_recipe_ingredients.csv", "w") as f:
         wr = csv.writer(f)
