@@ -65,7 +65,7 @@ def check_plurals_helper(string, plural_string):
 
 def check_plurals(string, plural_list):
     for plural_string in plural_list:
-        if check_plurals_helper(string, plural_string):
+        if check_plurals_helper(string, plural_string[1]):
             return plural_string
 
     return None
@@ -97,8 +97,8 @@ def main():
     ingredientId_increment = 1
 
     # for recipe_id in range(6660, 27000):
-    for recipe_id in range(7000, 9000):
-        if recipe_id = 7678:
+    for recipe_id in range(7000, 10000):
+        if recipe_id == 7678:
             continue
         print("trying recipe id: {}".format(recipe_id))
         soup = None
