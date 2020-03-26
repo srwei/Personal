@@ -67,6 +67,8 @@ def check_plurals(string, plural_list):
     for plural_string in plural_list:
         if check_plurals_helper(string, plural_string[1]):
             return plural_string
+        if check_plurals_helper(string, plural_string):
+            return plural_string
 
     return None
 
@@ -97,7 +99,7 @@ def main():
     ingredientId_increment = 1
 
     # for recipe_id in range(6660, 27000):
-    for recipe_id in range(7000, 10000):
+    for recipe_id in range(7000, 13000):
         if recipe_id == 7678:
             continue
         print("trying recipe id: {}".format(recipe_id))
@@ -173,7 +175,6 @@ def main():
 
 
                 for i in range(0, len(parsed_ingredient)):
-                    # print(parsed_ingredient)
                     plural_unit = check_plurals(parsed_ingredient[i], measurement_units)
                     if plural_unit:
                         del parsed_ingredient[i]
@@ -255,7 +256,9 @@ def main():
                     all_ingredients.append([ingredientId_increment, ingredient_str])
                     all_recipe_ingredients.append([recipe_id, ingredientId_increment, title, ingredient_str])
                     ingredientId_increment += 1
-        
+                
+                print("finished writing recipe {}".format(title))
+
     with open("all_ingredients.csv", "w") as f:
         wr = csv.writer(f)
         for i in all_ingredients:
@@ -350,6 +353,7 @@ def test(recipe_id):
 
             for i in range(0, len(parsed_ingredient)):
                 # print(parsed_ingredient)
+                print(parsed_ingredient[i])
                 plural_unit = check_plurals(parsed_ingredient[i], measurement_units)
                 if plural_unit:
                     del parsed_ingredient[i]

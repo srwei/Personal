@@ -1,0 +1,1961 @@
+7000,1,Golden Crescent Rolls,active yeast
+7000,2,Golden Crescent Rolls,water
+7000,3,Golden Crescent Rolls,white sugar
+7000,4,Golden Crescent Rolls,salt
+7000,5,Golden Crescent Rolls,eggs
+7000,6,Golden Crescent Rolls,butter
+7000,7,Golden Crescent Rolls,purpose flour
+7001,8,Poppy Seed Bread with Glaze,baking powder
+7001,9,Poppy Seed Bread with Glaze,poppy seeds
+7001,10,Poppy Seed Bread with Glaze,butter flavored extract
+7001,11,Poppy Seed Bread with Glaze,vegetable oil
+7001,12,Poppy Seed Bread with Glaze,milk
+7001,13,Poppy Seed Bread with Glaze,vanilla extract
+7001,14,Poppy Seed Bread with Glaze,almond extract
+7001,15,Poppy Seed Bread with Glaze,orange juice
+7001,16,Poppy Seed Bread with Glaze,confectioners' sugar
+7002,17,Czech Christmas Hoska,cake compressed yeast
+7002,18,Czech Christmas Hoska,ginger
+7002,19,Czech Christmas Hoska,mace
+7002,20,Czech Christmas Hoska,orange
+7002,21,Czech Christmas Hoska,golden raisins
+7002,22,Czech Christmas Hoska,candied mixed fruit
+7002,23,Czech Christmas Hoska,almonds
+7002,24,Czech Christmas Hoska,egg yolk
+7003,25,Applesauce Bread I,applesauce
+7003,26,Applesauce Bread I,raisins
+7003,27,Applesauce Bread I,cinnamon
+7003,28,Applesauce Bread I,baking soda
+7003,29,Applesauce Bread I,sour cream
+7004,30,Raisin Brown Bread,oats
+7004,31,Raisin Brown Bread,shortening
+7004,32,Raisin Brown Bread,brown sugar
+7004,33,Raisin Brown Bread,molasses
+7004,34,Raisin Brown Bread,bread flour
+7005,35,Applesauce Raisin Bread,quick cooking oats
+7005,36,Applesauce Raisin Bread,apple juice
+7006,37,Apple Raisin Bread,nutmeg
+7006,38,Apple Raisin Bread,apple
+7006,39,Apple Raisin Bread,walnuts
+7007,40,Buttermilk Oatmeal Bread,buttermilk
+7008,41,Kolaches II,egg yolks
+7008,42,Kolaches II,lemon extract
+7008,43,Kolaches II,fruit preserves
+7009,44,Whole Wheat Bread II,hot water
+7009,45,Whole Wheat Bread II,whole wheat flour
+7010,46,Finnish Pulla,cardamom
+7012,47,Cottage Cheese Bread II,cottage cheese
+7013,48,Mocha Chocolate Chip Banana Muffins,margarine
+7013,49,Mocha Chocolate Chip Banana Muffins,bananas
+7013,50,Mocha Chocolate Chip Banana Muffins,instant coffee granules
+7013,51,Mocha Chocolate Chip Banana Muffins,semisweet chocolate chips
+7014,52,Ruby's Special Cornbread,cornmeal
+7014,53,Ruby's Special Cornbread,green bell pepper
+7014,54,Ruby's Special Cornbread,onion
+7014,55,Ruby's Special Cornbread,garlic powder
+7014,56,Ruby's Special Cornbread,whole kernel corn
+7014,57,Ruby's Special Cornbread,pimento peppers
+7014,58,Ruby's Special Cornbread,jalapeno peppers
+7015,59,Maple Muffins,real maple syrup
+7016,60,French Toast I,bread
+7016,61,French Toast I,salt to taste
+7017,62,Snow Day French Toast,raisin bread
+7019,63,Fudgy Chocolate Chip Muffins,unsweetened cocoa powder
+7019,64,Fudgy Chocolate Chip Muffins,semi sweet chocolate chips
+7020,65,Pumpernickel Bread II,rye flour
+7021,66,Indian Naan II,ghee
+7021,67,Indian Naan II,plain yogurt
+7021,68,Indian Naan II,kalonji
+7022,69,Lefse II,corn syrup
+7023,70,Chocolate Chocolate Chip Muffins,semisweet chocolate
+7023,71,Chocolate Chocolate Chip Muffins,unsalted butter
+7023,72,Chocolate Chocolate Chip Muffins,mini semi sweet chocolate chips
+7024,73,Banana Nut Bread Baked in a Jar,cloves
+7024,74,Banana Nut Bread Baked in a Jar,pecans
+7026,75,Honey Oatmeal Bread I,wheat germ
+7026,76,Honey Oatmeal Bread I,honey
+7027,77,Potato Bread III,potato
+7028,78,French Baguettes,bread machine yeast
+7030,79,Oatmeal Soda Bread,low fat sour cream
+7030,80,Oatmeal Soda Bread,skim milk
+7031,81,Chinese Steamed Buns with Meat Filling,pork
+7031,82,Chinese Steamed Buns with Meat Filling,shrimp
+7031,83,Chinese Steamed Buns with Meat Filling,green onions
+7031,84,Chinese Steamed Buns with Meat Filling,ginger root
+7031,85,Chinese Steamed Buns with Meat Filling,soy sauce
+7031,86,Chinese Steamed Buns with Meat Filling,rice wine
+7031,87,Chinese Steamed Buns with Meat Filling,black pepper to taste
+7031,88,Chinese Steamed Buns with Meat Filling,Chinese Steamed Buns
+7032,89,Chinese Steamed Buns with BBQ Pork Filling,boneless pork loin roast
+7032,90,Chinese Steamed Buns with BBQ Pork Filling,barbecue sauce
+7032,91,Chinese Steamed Buns with BBQ Pork Filling,shallots
+7032,92,Chinese Steamed Buns with BBQ Pork Filling,chicken broth
+7032,93,Chinese Steamed Buns with BBQ Pork Filling,dark soy sauce
+7033,94,Mary Anne's Moist and Nutty Carrot Loaf,carrots
+7033,95,Mary Anne's Moist and Nutty Carrot Loaf,pineapple
+7034,96,Russian Black Bread,cider vinegar
+7034,97,Russian Black Bread,dark corn syrup
+7034,98,Russian Black Bread,caraway seed
+7034,99,Russian Black Bread,fennel seed
+7038,100,Panettone II,milk powder
+7038,101,Panettone II,mixed fruit
+7041,102,Beer Rolls,dark beer
+7044,103,Pumpkin Bread V,pumpkin pie spice
+7044,104,Pumpkin Bread V,butter flavored shortening
+7044,105,Pumpkin Bread V,pumpkin puree
+7045,106,Best Ever Cinnamon Buns,yellow cake mix
+7047,107,Ezekiel Bread I,wheat berries
+7047,108,Ezekiel Bread I,spelt flour
+7047,109,Ezekiel Bread I,barley
+7047,110,Ezekiel Bread I,millet
+7047,111,Ezekiel Bread I,green lentils
+7047,112,Ezekiel Bread I,great Northern beans
+7047,113,Ezekiel Bread I,kidney beans
+7047,114,Ezekiel Bread I,pinto beans
+7047,115,Ezekiel Bread I,olive oil
+7048,116,Zucchini Pineapple Bread I,zucchini
+7049,117,Pumpkin Swirl Bread,cream cheese
+7050,118,Jule Kaka,candied cherries
+7050,119,Jule Kaka,candied citron
+7050,120,Jule Kaka,egg white
+7053,121,Coconut Pumpkin Nut Bread,dark brown sugar
+7053,122,Coconut Pumpkin Nut Bread,coconut milk
+7053,123,Coconut Pumpkin Nut Bread,unsweetened coconut
+7054,124,Dizzy Pineapple Bread,self rising flour
+7054,125,Dizzy Pineapple Bread,or bottle beer
+7055,126,European Black Bread,oat bran
+7056,127,Chili Bread,beer
+7056,128,Chili Bread,beef bouillon
+7056,129,Chili Bread,cayenne pepper
+7056,130,Chili Bread,hot chile oil
+7056,131,Chili Bread,cumin
+7056,132,Chili Bread,chili powder
+7059,133,Carrot Thyme Bread,thyme
+7060,134,Golly Gee Gluten-Free Pancakes,amaranth flour
+7060,135,Golly Gee Gluten-Free Pancakes,tapioca flour
+7060,136,Golly Gee Gluten-Free Pancakes,arrowroot flour
+7060,137,Golly Gee Gluten-Free Pancakes,wheat free baking powder
+7062,138,Baked Pretzels,kosher salt
+7064,139,Amish Cinnamon Bread,Amish Friendship Bread Starter
+7064,140,Amish Cinnamon Bread,instant vanilla pudding mix
+7065,141,French Herb Bread,distilled white vinegar
+7065,142,French Herb Bread,clove garlic
+7065,143,French Herb Bread,parsley
+7066,144,Easy Rice Bread,white rice flour
+7066,145,Easy Rice Bread,brown rice flour
+7066,146,Easy Rice Bread,xanthan gum
+7066,147,Easy Rice Bread,unflavored gelatin
+7066,148,Easy Rice Bread,superfine sugar
+7066,149,Easy Rice Bread,egg substitute
+7066,150,Easy Rice Bread,walnut oil
+7067,151,Lemon Poppy Seed Muffins I,lemon flavored yogurt
+7067,152,Lemon Poppy Seed Muffins I,lemon
+7067,153,Lemon Poppy Seed Muffins I,lemon juice
+7068,154,Lemon Poppy Seed Muffins II,nonfat lemon yogurt
+7070,155,Injera,millet flour
+7071,156,Pita Bread,pastry flour
+7072,157,Raisin Bread II,lard
+7073,158,Hot Cross Buns I,instant powdered milk
+7073,159,Hot Cross Buns I,currants
+7075,160,Plain and Simple Sourdough Bread,sourdough starter
+7076,161,Garlic and Herb Bread,nonfat milk powder
+7076,162,Garlic and Herb Bread,garlic salt
+7076,163,Garlic and Herb Bread,onion powder
+7076,164,Garlic and Herb Bread,basil
+7076,165,Garlic and Herb Bread,dill weed
+7076,166,Garlic and Herb Bread,celery seed
+7077,167,Ron's Fruit Bread,allspice
+7078,168,Ron's Bread Machine White,extra egg
+7081,169,Tomato Basil Sherry Bread,tomato paste
+7081,170,Tomato Basil Sherry Bread,sherry
+7081,171,Tomato Basil Sherry Bread,sun tomatoes
+7082,172,"Onion, Garlic, Cheese Bread",sharp Cheddar cheese
+7084,173,The All-Good Loaf,sea salt
+7084,174,The All-Good Loaf,quinoa flour
+7084,175,The All-Good Loaf,white spelt flour
+7084,176,The All-Good Loaf,rosemary
+7086,177,Basic British Scones,cream of tartar
+7087,178,Yeast-Free Bread,or bottle lemon lime flavored carbonated beverage
+7088,179,Bread Bowls II,bread dough
+7089,180,Bread Sticks,dinner roll dough
+7089,181,Bread Sticks,Parmesan cheese
+7089,182,Bread Sticks,sesame seeds
+7090,183,Banana Macadamia Nut Bread,macadamia nuts
+7092,184,Homemade Wonderful Bread,potato flakes
+7093,185,Spudnuts,potatoes
+7094,186,Banana Nut Oatmeal Bread,steel oats
+7094,187,Banana Nut Oatmeal Bread,powdered buttermilk
+7097,188,Chinese Pork Buns (Cha Siu Bao),hoisin sauce
+7097,189,Chinese Pork Buns (Cha Siu Bao),oyster sauce
+7097,190,Chinese Pork Buns (Cha Siu Bao),cornstarch
+7097,191,Chinese Pork Buns (Cha Siu Bao),sesame oil
+7097,192,Chinese Pork Buns (Cha Siu Bao),white pepper
+7098,193,Christmas Stollen II,candied mixed citrus
+7098,194,Christmas Stollen II,rum
+7099,195,Pizza Crust II,oregano
+7099,196,Pizza Crust II,Parmigiano Reggiano cheese
+7101,197,Pistachio Bread,instant pistachio pudding mix
+7101,198,Pistachio Bread,maraschino cherries
+7101,199,Pistachio Bread,green food coloring
+7105,200,Easter Bread Ring,mixed candied fruit
+7105,201,Easter Bread Ring,anise seed
+7105,202,Easter Bread Ring,whole milk
+7105,203,Easter Bread Ring,multicolored sprinkles
+7106,204,Essene Bread,water to cover
+7108,205,Apple Bran Cheddar Muffins,whole bran cereal
+7108,206,Apple Bran Cheddar Muffins,Cheddar cheese
+7109,207,Restaurant-Quality Maple Oatmeal Scones,cherries
+7109,208,Restaurant-Quality Maple Oatmeal Scones,maple flavored extract
+7110,209,Quick and Easy Monkey Bread,instant butterscotch pudding mix
+7113,210,Banana Chip Muffins II,egg whites
+7114,211,Mocha Muffins,instant coffee
+7114,212,Mocha Muffins,malted milk powder
+7115,213,Peanut Butter and Jelly Bread,peanut butter
+7115,214,Peanut Butter and Jelly Bread,blackberry jelly
+7116,215,Banana Bread - Quick Bread for Machines,bananas lengthwise
+7118,216,Steamed Black Bread,graham flour
+7119,217,Mediterranean Black Olive Bread,black olives
+7120,218,Italian Herb Bread II,Italian seasoning
+7123,219,Johnnycakes,stone cornmeal
+7126,220,Pain Perdu I,egg bread
+7128,221,Malasadas,evaporated milk
+7130,222,Oatmeal Bread III,soy milk
+7130,223,Oatmeal Bread III,liquid lecithin
+7130,224,Oatmeal Bread III,oat flour
+7130,225,Oatmeal Bread III,soy flour
+7130,226,Oatmeal Bread III,arrowroot powder
+7131,227,Blueberry Bread II,blueberries
+7131,228,Blueberry Bread II,vital wheat gluten
+7132,229,Sour Cream and Chive Rolls,chives
+7133,230,Pear-a-dise Muffins,canned pears
+7135,231,Bread Pudding with Lemon Sauce I,bread cubes
+7136,232,Fondue Bread,Muenster cheese
+7136,233,Fondue Bread,whole almonds
+7140,234,Country Seed Bread,canola oil
+7140,235,Country Seed Bread,flax seed
+7142,236,Italian Cheese Bread,pepperjack cheese
+7142,237,Italian Cheese Bread,black pepper
+7143,238,Slovak Nut Rolls,apricot preserves
+7144,239,Bread Machine Spelt Bread,lecithin
+7145,240,Sausage Bread,hot bread roll mix
+7145,241,Sausage Bread,pork sausage
+7145,242,Sausage Bread,pepperoni
+7145,243,Sausage Bread,mozzarella cheese
+7145,244,Sausage Bread,monosodium glutamate
+7146,245,Cheddar Bay Biscuits,baking mix
+7152,246,Pan Dulce,cocoa powder
+7153,247,Honey and Flaxseed Bread,flaxseed oil
+7153,248,Honey and Flaxseed Bread,whey powder
+7157,249,Fougasse,savory
+7158,250,Strawnana Bread,strawberries
+7159,251,Morning Glory Muffins I,apple butter
+7161,252,Herman Biscuits,Herman Sourdough Starter
+7164,253,Honey Bran Muffins,pineapple juice
+7166,254,Cherry Vanilla Chip Muffins,vanilla soy milk
+7166,255,Cherry Vanilla Chip Muffins,sucanat
+7166,256,Cherry Vanilla Chip Muffins,vanilla baking chips
+7174,257,Navajo Fry Bread I,ice water
+7175,258,Banana Chai Bread,lowfat cream cheese
+7175,259,Banana Chai Bread,chai tea
+7181,260,Jelly Doughnuts,flavor fruit jam
+7185,261,Gluten-Free White Bread for Bread Machines,potato starch
+7186,262,Chocolate Apple Bread,apples
+7189,263,Pizza Crust for Bread Machine,semolina flour
+7190,264,Spinach Bread,spinach
+7192,265,Real Southern Cornbread,corn oil
+7193,266,Herb Biscuits,buttermilk biscuit dough
+7197,267,Broccoli and Four Cheese Calzones,broccoli
+7197,268,Broccoli and Four Cheese Calzones,provolone cheese
+7197,269,Broccoli and Four Cheese Calzones,ricotta cheese
+7198,270,"Broccoli, Pepperoni and Three Cheese Calzones",salt pepper to taste
+7199,271,Prosciutto Filling for Calzones,prosciutto
+7199,272,Prosciutto Filling for Calzones,Romano cheese
+7200,273,Banana Nut and Ginger Bread,dates
+7201,274,Lemon Poppy Seed Amish Friendship Bread,instant lemon pudding mix
+7202,275,Yummy Peanut Butter Bread,crunchy peanut butter
+7203,276,Crunchy Honey Wheat Bread,granola
+7206,277,Southern Biscuits with Mayonnaise,mayonnaise
+7209,278,Kalamata Olive and Garlic Bread,non iodized salt
+7209,279,Kalamata Olive and Garlic Bread,cloves garlic
+7209,280,Kalamata Olive and Garlic Bread,Kalamata olives
+7211,281,Cheese Herb Bread,marjoram
+7213,282,Mocha Java Bread,mocha flavored instant coffee mix
+7214,283,Pear Bread I,pears
+7215,284,Pumpkin Yeast Bread,canned pumpkin puree
+7216,285,Sweet Corn Cake,masa harina
+7216,286,Sweet Corn Cake,whipping cream
+7217,287,Pepperoni Pizza Bread,pepperoni sausage
+7217,288,Pepperoni Pizza Bread,canned mushrooms
+7218,289,Rye Starter,whole meal rye flour
+7218,290,Rye Starter,filtered or spring water
+7219,291,Wild Grape Starter,grapes
+7220,292,Muesli-Applesauce Muffins,muesli cereal
+7221,293,Orange Spice Muffins,buttermilk baking mix
+7221,294,Orange Spice Muffins,condensed mincemeat
+7223,295,Banana Chocolate Chip Muffins,Dutch process cocoa powder
+7225,296,Cracked Wheat Sourdough Bread,cracked wheat
+7225,297,Cracked Wheat Sourdough Bread,nonfat milk
+7225,298,Cracked Wheat Sourdough Bread,sunflower seeds
+7226,299,Sourdough Buckwheat Pancakes,buckwheat flour
+7227,300,Chocolate Chip Sourdough Muffins,milk chocolate chips
+7229,301,Skiers' French Toast,unsliced white bread
+7230,302,Pumpkin Chip Bread,solid pack pumpkin puree
+7234,303,Grandma Emma's Spice Loaf,hot coffee
+7239,304,Rum Raisin Bread,rum flavored extract
+7240,305,Pseudo Sourdough for the Bread Machine,barley flour
+7242,306,Cardamom Banana Bread,dark rum
+7244,307,Southern Sweet Potato Bread with Pecans,sweet potatoes
+7249,308,Sourdough Chocolate Cranberry Cake,whole cranberry sauce
+7251,309,Chocolate Zucchini Cake I,sour milk
+7252,310,Fruitcake Without Citron,candied pineapple
+7252,311,Fruitcake Without Citron,red green candied cherries
+7253,312,Mocha Blanca Cheesecake,Crust:
+7253,313,Mocha Blanca Cheesecake,vanilla wafers
+7253,314,Mocha Blanca Cheesecake,Filling:
+7253,315,Mocha Blanca Cheesecake,coffee flavored liqueur
+7253,316,Mocha Blanca Cheesecake,Topping:
+7255,317,Dirt Cake I,whipped topping
+7255,318,Dirt Cake I,chocolate sandwich cookies
+7257,319,Pol's Apple Cake,coconut
+7258,320,Cherry Ripple Rose Cake,cherry pie filling
+7264,321,Waldorf Astoria Red Cake,red food coloring
+7269,322,Fabulous Fudge Chocolate Cake,unsweetened chocolate
+7270,323,No Bake Cheesecake I,graham cracker
+7270,324,No Bake Cheesecake I,pecan sandies cookies
+7270,325,No Bake Cheesecake I,whipping cream whipped
+7272,326,Awesome Carrot Cake with Cream Cheese Frosting,Neufchatel cheese
+7276,327,Easy Lemon Cake,lemon flavored Jell O®
+7279,328,Pecan Sour Cream Pound Cake,cake flour
+7280,329,The Easiest Chocolate Cake,vanilla sugar
+7281,330,Chocolate Cherry Cake I,chocolate cake mix
+7284,331,Irish Cream Chocolate Cheesecake,chocolate cookie
+7284,332,Irish Cream Chocolate Cheesecake,Irish cream liqueur
+7285,333,Microwave Cake,apple pie filling
+7286,334,Creme de Menthe Cake I,white cake mix
+7286,335,Creme de Menthe Cake I,creme de menthe liqueur
+7286,336,Creme de Menthe Cake I,chocolate syrup
+7287,337,Lick Your Lips Cake,mandarin orange segments
+7291,338,Angelo Cake,corn flour
+7296,339,Quick Black Forest Cake,devil's food cake mix
+7298,340,Key Lime Cake I,key lime
+7298,341,Key Lime Cake I,key lime juice
+7299,342,Pineapple Cake I,reduced fat yellow cake mix
+7301,343,Marron Layer Cake,white wine
+7301,344,Marron Layer Cake,sweetened chestnut puree
+7301,345,Marron Layer Cake,semi sweet chocolate
+7301,346,Marron Layer Cake,cream
+7301,347,Marron Layer Cake,marrons glaces
+7304,348,Eclair Cake,chocolate frosting
+7308,349,Apricot Sponge Cake,apricot nectar
+7311,350,Mom's Fruitcake with Brandy,gum drops no licorice ones
+7311,351,Mom's Fruitcake with Brandy,brandy
+7311,352,Mom's Fruitcake with Brandy,apple jelly
+7317,353,Great Chocolate Cake,bittersweet chocolate
+7318,354,Quick Sunshine Cake,moist yellow cake mix
+7318,355,Quick Sunshine Cake,mandarin oranges
+7320,356,Coconut Pound Cake,coconut extract
+7321,357,Pineapple Layer Cake,unsweetened pineapple juice
+7327,358,Earthquake Cake I,German chocolate cake mix
+7327,359,Earthquake Cake I,cola flavored carbonated beverage
+7328,360,Worm Cake,gummi worms
+7329,361,Karen A's Chocolate Dump Cake,non instant chocolate pudding mix
+7333,362,Strawberry Cake I,strawberry flavored Jell O®
+7335,363,Fruit Cocktail Cake I,fruit cocktail
+7336,364,Pistachio Cake I,instant dessert topping
+7337,365,Passover Brownie Cake,matzo cake meal
+7339,366,Gateau D'Abricot A L'Orange,sweetened condensed milk
+7339,367,Gateau D'Abricot A L'Orange,orange extract
+7339,368,Gateau D'Abricot A L'Orange,graham cracker crust
+7339,369,Gateau D'Abricot A L'Orange,apricot
+7340,370,Banana Nut Coconut Cake,Banana Nut Coconut Cake:
+7340,371,Banana Nut Coconut Cake,Banana Nut Frosting:
+7343,372,Cassata alla Siciliana (Sicilian Cream Tart),sweet chocolate
+7348,373,Creamy White Layers,sugar
+7350,374,Chocolate Fudge Buttercream Frosting,hot fudge topping
+7354,375,Norwegian Hazelnut Cake,hazelnuts
+7357,376,Chocolate Mint Cheesecake,chocolate wafers
+7357,377,Chocolate Mint Cheesecake,peppermint extract
+7364,378,Easy Rum Cake,Glaze
+7365,379,Barb's Chocolate Cake,coffee
+7366,380,Aunt Maria's Pudding Cake,cream sherry
+7367,381,Lemonade Cake I,vanilla ice cream
+7367,382,Lemonade Cake I,lemonade concentrate
+7371,383,Lemonade Frosting,pink lemonade concentrate
+7375,384,Black Russian Cake I,instant chocolate pudding mix
+7375,385,Black Russian Cake I,vodka
+7377,386,Prune Mocha Cake,prunes
+7381,387,Maraschino Cherry Pound Cake,butternut flavored extract
+7382,388,Ice Box Cake I,pound cake
+7383,389,Holly's Black Forest Cake,dark sweet cherries
+7383,390,Holly's Black Forest Cake,orange liqueur
+7385,391,White Chocolate Cheesecake with White Chocolate Brandy Sauce,White Chocolate Cheesecake:
+7385,392,White Chocolate Cheesecake with White Chocolate Brandy Sauce,white chocolate
+7385,393,White Chocolate Cheesecake with White Chocolate Brandy Sauce,White Chocolate Brandy Sauce:
+7387,394,Pineapple Sponge Cake,whipped cream
+7392,395,Christmas Fruitcake,mango
+7392,396,Christmas Fruitcake,cranberries
+7392,397,Christmas Fruitcake,unsulfured molasses
+7401,398,Rich Dark Fruitcake,grape juice
+7406,399,Key Lime Cake II,lemon cake mix
+7409,400,Strawberry Torte,ladyfinger cookies
+7410,401,Wedding Cake Frosting,clear imitation vanilla extract
+7411,402,Peach Cake I,peaches
+7412,403,Pineapple Upside-Down Cake I,canned pineapple
+7413,404,Turtles® Cake I,caramels
+7415,405,Kitty Litter Cake,vanilla sandwich cookies
+7415,406,Kitty Litter Cake,tootsie rolls
+7419,407,Sugar Free Cake,liquid sweetener
+7419,408,Sugar Free Cake,unsweetened applesauce
+7421,409,Better Than Sex Cake I,chocolate covered English toffee
+7422,410,Rhubarb Strawberry Cake,rhubarb
+7425,411,Red Velvet Cake I,white vinegar
+7427,412,Pina Colada Cake II,pina colada mix
+7428,413,Seven-Up™  Sheet Cake,lemon lime flavored carbonated beverage
+7432,414,Coconut Cake II,Coconut Cake:
+7432,415,Coconut Cake II,White Frosting:
+7433,416,BaumKuchen,almond paste
+7436,417,Dried Cherry Cake,vanilla yogurt
+7441,418,Key Lime Cheesecake I,lime
+7445,419,Sour Cream Coffee Cake I,candy sprinkles
+7447,420,Peach Upside Down Cake II,canned peaches
+7448,421,Chocolate Sauerkraut Cake I,sauerkraut
+7451,422,Caramel Nougat Cake,milk chocolate covered caramel nougat candy
+7452,423,Caramel Nougat Cake II,milk chocolate covered caramel nougat
+7455,424,Chocolate Caramel Nut Cake II,fun size chocolate coated caramel peanut nougat candy
+7456,425,Peter's Cheesecake,graham crackers
+7463,426,No-Bake Holiday Fruitcake,red candied cherries
+7463,427,No-Bake Holiday Fruitcake,green candied cherries
+7466,428,Deep Chocolate Raspberry Cake,raspberries
+7466,429,Deep Chocolate Raspberry Cake,seedless raspberry preserves
+7467,430,Sponge Cake Tiramisu,mascarpone cheese
+7467,431,Sponge Cake Tiramisu,sponge cake
+7469,432,Hot Milk Sponge Cake I,Cake:
+7471,433,Lady Baltimore Cake,Lady Baltimore Frosting
+7474,434,Carrot Cheesecake with Crumb Crust,gingersnap cookie
+7476,435,Grandma's Chocolate Marvel Cake,prunes baby food
+7478,436,Cinnamon Swirl Bundt Coffee Cake,Coffee Cake:
+7479,437,Kentucky Butter Cake,unbleached purpose flour
+7480,438,Chocolate Rum Cake,white rum
+7484,439,Tunnel of Fudge Cake III,chocolate fudge frosting
+7485,440,Bee Sting Cake (Bienenstich) I,pastry cream
+7488,441,White Cake Frosting I,powdered butter flavoring
+7489,442,Harvey Wallbanger Cake,Galliano liqueur
+7494,443,Zucchini Cake I,Frosting:
+7495,444,Peanut Butter Cake II,creamy peanut butter
+7495,445,Peanut Butter Cake II,butter cake mix
+7501,446,Coco-Cola Cake I,miniature marshmallows
+7508,447,Strawberry Angels' Cake,angel food cake mix
+7510,448,Fudgey Peanut Butter Chip Muffins,peanut butter chips
+7515,449,Better Than Sex Cake II,caramel ice cream topping
+7515,450,Better Than Sex Cake II,chocolate covered toffee
+7517,451,Cherry Nut Cake II,Golden Delicious apple
+7525,452,Honey Cake II,Glaze :
+7526,453,Mocha Cake II,anisette toasts
+7526,454,Mocha Cake II,non instant vanilla pudding mix
+7526,455,Mocha Cake II,almond slices
+7529,456,Poppy Seed Torte with Orange Glaze,Glaze:
+7530,457,Mississippi Mud Cake I,marshmallow creme
+7534,458,Orange Cream Cake I,orange cake mix
+7534,459,Orange Cream Cake I,orange flavored Jell O® mix
+7536,460,Kelly's Apple Cocoa Cake,green apples
+7537,461,Butternut Spice Cake,butternuts
+7539,462,Heavenly Cake,German sweet chocolate
+7541,463,Mini Cinnamon Cakes,reduced fat buttermilk baking mix
+7548,464,Dr Pepper® Cake,Dr. Pepper drink
+7548,465,Dr Pepper® Cake,unsalted peanuts
+7549,466,Amaretto Cheesecake I,amaretto liqueur
+7553,467,Vanilla Pastry Cream,vanilla bean lengthwise
+7562,468,Cone Cupcakes,flat bottomed ice cream cones
+7567,469,Rainbow Cake,hot milk
+7567,470,Rainbow Cake,yellow food coloring
+7568,471,No-Bake Popcorn Cake,marshmallows
+7568,472,No-Bake Popcorn Cake,popcorn
+7568,473,No-Bake Popcorn Cake,gumdrops
+7568,474,No-Bake Popcorn Cake,chocolate covered peanuts
+7568,475,No-Bake Popcorn Cake,candy coated chocolate
+7571,476,Groom's Cake,candied lemon
+7571,477,Groom's Cake,candied orange
+7573,478,Easter Party Cake,candy coated milk chocolate eggs
+7579,479,Apricot Filling and Frosting for Angel Food Cakes,apricots
+7579,480,Apricot Filling and Frosting for Angel Food Cakes,cream whipped
+7583,481,Tomato Soup Cake I,condensed tomato
+7584,482,Pistachio Cake II,whipped topping mix
+7585,483,Toffee Bar Coffee Cake,chocolate covered toffee bars
+7586,484,Amaretto Cheesecake II,macaroon cookies
+7600,485,Mint Buttercream Frosting With Dark Chocolate Glaze,mint extract
+7601,486,Chocolate Mint Mayonnaise Cake,chocolate covered mints
+7602,487,Sad Cake,biscuit baking mix
+7603,488,Raspberry and Strawberry Buckle,nonfat plain yogurt
+7606,489,Caramel Nougat Cake IV,butter or margarine
+7608,490,Peanut Candy Bar Cake,salted peanuts
+7608,491,Peanut Candy Bar Cake,rice cereal
+7609,492,Blackberry Wine Cake I,blackberry Jell O®
+7609,493,Blackberry Wine Cake I,blackberry wine
+7610,494,Banana Nut Cake,Icing
+7610,495,Banana Nut Cake,pecan or to taste
+7613,496,Lane Cake,brandy flavoring
+7617,497,Spintz Cake,smooth peanut butter
+7618,498,Very Special Tomato Spice Cake,tomato sauce
+7626,499,Maple Walnut Frosting,maple syrup
+7628,500,Martha Washington's Cake,candied angelica
+7631,501,Chocolate Chip Cookie Dough Cheesecake,chocolate wafer cookies
+7631,502,Chocolate Chip Cookie Dough Cheesecake,Cookie Dough:
+7635,503,Screw Pine Cake,pandan paste
+7635,504,Screw Pine Cake,ovalette
+7650,505,Dobos Torte,Chocolate Buttercream
+7653,506,Orange Pecan Cake,brandy based orange liqueur
+7654,507,Almond Lemon Cake,blanched almonds
+7659,508,Deep Dark Chocolate Peppermint Cake,Seven Minute Frosting
+7659,509,Deep Dark Chocolate Peppermint Cake,peppermint candies
+7661,510,Chocolate Icebox Cake,ladyfingers
+7663,511,Orange Cream Cake II,orange sherbet
+7670,512,Funnel Cakes II,oil
+7676,513,Minnehaha Cake,For the Cake:
+7676,514,Minnehaha Cake,For the Icing:
+7679,515,Nutmeg Cake,Nutmeg Cake:
+7679,516,Nutmeg Cake,Caramel Icing:
+7680,517,Boiled Raisin Cake II,turbinado sugar
+7682,518,Cassata Cake,whole milk ricotta cheese
+7684,519,Whippee Ripple Strawberry Cake,strawberry cake mix
+7684,520,Whippee Ripple Strawberry Cake,strawberry frosting mix
+7696,521,Bertha's Big Bourbon Bundt Cake,bourbon
+7697,522,Rose Petal Pound Cake,rosewater
+7698,523,Pecan Torte,Mocha Cream Filling Frosting:
+7707,524,Mom's Brazil Nut Fruitcake,Brazil nuts
+7709,525,Coconut Pecan Cake,moist white cake mix
+7710,526,Carrot Cake IV,carrot cake mix
+7713,527,Brownie Caramel Cheesecake,brownie mix
+7713,528,Brownie Caramel Cheesecake,chocolate fudge topping
+7727,529,Fresh Orange Refrigerator Cake,orange segments
+7734,530,Apricot Brandy Pound Cake I,apricot brandy
+7739,531,Coconut Chocolate Cake I,dark chocolate cake mix
+7742,532,Apple Dump Cake,apples cinnamon muffin mix
+7742,533,Apple Dump Cake,cinnamon or to taste
+7743,534,Watergate Cake I,carbonated water
+7746,535,Pousse Cafe,cognac
+7750,536,Holiday Refrigerator Cake,salted pecans
+7753,537,Carrot Cake V,carrot baby food
+7763,538,Greek Lemon Cake,plain whole milk yogurt
+7764,539,Death By Chocolate I,chocolate mousse mix
+7764,540,Death By Chocolate I,milk chocolate candy
+7768,541,Butterscotch Cake I,butterscotch pudding
+7768,542,Butterscotch Cake I,butterscotch chips
+7769,543,Soccer Ball Cake,vanilla frosting
+7769,544,Soccer Ball Cake,black licorice whips
+7772,545,Strawberry Ice Cream Cake,angel food cake
+7772,546,Strawberry Ice Cream Cake,strawberry ice cream
+7777,547,Strawberry Marble Cake,marble cake mix
+7778,548,Tuppakaka,tablespoon teaspoon purpose flour
+7779,549,Black Walnut Cake I,black walnuts
+7785,550,Strawberry Twinkie Dessert,ready to use strawberry glaze
+7785,551,Strawberry Twinkie Dessert,Twinkies
+7792,552,Plum Cake,plums
+7793,553,Strawberry Dream Cake I,sweetened strawberries
+7805,554,Orange Glaze I,orange juice concentrate
+7812,555,Orange Party Cake with Chocolate Coating,orange food coloring
+7814,556,Mam's Black Cake,blackberries
+7824,557,Williamsburg Orange Cake,Williamsburg Butter Frosting
+7826,558,Raspberry Nut Butter Cake,seedless raspberry jam
+7827,559,Poke Cake I,fruit flavored Jell O® mix
+7829,560,Poke Cake II,white cake
+7830,561,Gramma's Party Cake,lime flavored Jell O® mix
+7835,562,Pumpkin Cheesecake I,inch pastry shells
+7836,563,Lite Coconut Cake,fat free sour cream
+7836,564,Lite Coconut Cake,lite whipped topping
+7839,565,Baby Food Cake I,apricot baby food
+7839,566,Baby Food Cake I,plum baby food
+7840,567,Apricot Nectar Cake II,lemon flavored Jell O® mix
+7845,568,Raspberry Icebox Cake,raspberry flavored Jell O® mix
+7856,569,Cream of Coconut Cake,cream of coconut
+7861,570,Icelandic Christmas Cake,cardamom flavored extract
+7864,571,Lemon Chiffon Cake,lemon pie filling
+7866,572,Pumpkin Cheesecake II,canned pumpkin
+7870,573,Best Boiled Fruitcake,glace cherries
+7871,574,Incredibly Delicious Italian Cream Cake,sweetened coconut
+7874,575,Matrimonial Bliss,rhubarb jam
+7883,576,Banana Pudding Cake,instant banana pudding mix
+7893,577,Dundee Cake,candies mixed fruit
+7895,578,Pear Cake,unpeeled pears
+7900,579,Thirty Day Friendship Cake,Friendship Fruit Starter
+7901,580,Webb's Cake,apple pie spice
+7902,581,Sugar Free Mocha Cheesecake,sugar free chocolate wafer cookie
+7902,582,Sugar Free Mocha Cheesecake,brown sugar substitute
+7902,583,Sugar Free Mocha Cheesecake,instant espresso coffee
+7925,584,Blue Cheese Cheesecake,blue cheese
+7925,585,Blue Cheese Cheesecake,red bell pepper
+7930,586,Rolled Fondant,glucose syrup
+7930,587,Rolled Fondant,glycerin
+7932,588,Swiss Cheesecake,Swiss cheese
+7932,589,Swiss Cheesecake,currant jelly
+7933,590,Honey Vanilla Cheesecake with Gingersnap Crust,gingersnap cookies
+7933,591,Honey Vanilla Cheesecake with Gingersnap Crust,part skim ricotta cheese
+7933,592,Honey Vanilla Cheesecake with Gingersnap Crust,low fat cottage cheese
+7934,593,Blueberry Cheesecake,blueberries pack
+7934,594,Blueberry Cheesecake,blueberry jelly
+7936,595,Colby Cheesecake,zwieback toast
+7936,596,Colby Cheesecake,Colby cheese
+7937,597,Very Berry Cheesecake,cherry brandy
+7943,598,Valerie's Cherry Choco-Chip Cake,cherry cake mix
+7945,599,Ravishing Red Velvet Cake,Cream Cheese Frosting:
+7949,600,Lemon Cake with Lemon Filling and Lemon Orange Frosting,lemons
+7951,601,Lemon Orange Frosting,oranges
+7963,602,Moist Herman Coffee Cake,raisins or dates
+7966,603,Guava Cake,guava pulp
+7966,604,Guava Cake,guava nectar
+7968,605,Peanut Crunch Cake,peanuts
+7971,606,Chocolate Macaroon Cake,Icing:
+7975,607,Lime Kissed Cheesecake,lime juice
+7977,608,Heavenly Chipped Chocolate and Hazelnut Cheesecake,hazelnut liqueur
+7979,609,Raisin Cheesecake,plain low fat yogurt
+7979,610,Raisin Cheesecake,low fat milk
+7980,611,Southern Pecan Cheesecake,pecan liqueur
+7992,612,Chocolate Mint Cake Squares,For the Cake Layer:
+7993,613,Saucy Cherry Cake,sour red pie cherries
+8003,614,Muddy Chocolate Cheese Cake,yogurt
+8004,615,Pennsylvania Dutch Funny Cakes,pie crusts
+8006,616,Banana Cake IV,banana extract
+8007,617,Low Sugar Mocha Nut Cake,artificial sweetener
+8009,618,Eggless Chocolate Cake I,or bottle cola flavored carbonated beverage
+8012,619,Apple Stack Cake,Cake Layers:
+8015,620,Poppy Seed Cake II,poppyseed filling
+8017,621,Whiskey Cake I,whiskey
+8026,622,Sugarless Fruitcake,unsweetened pineapple
+8028,623,Simply The Best Chocolate Cake,chocolate pudding pie filling mix
+8032,624,Mocha Fudge Cake,moist dark chocolate cake mix
+8032,625,Mocha Fudge Cake,dark chocolate frosting
+8037,626,No Guilt Cheesecake,French vanilla yogurt
+8045,627,Cakes In A Cone,colored candy sprinkles
+8046,628,Blackberry Jam Cake,blackberry preserves
+8049,629,Mystery Chocolate Cake,beets
+8054,630,Fanny the Fish,yellow cake
+8055,631,Pork-n-Beans Cake,beans
+8059,632,Popcorn Cake II,whole peanuts
+8060,633,Passover Sponge Cake (Plava),potato flour
+8068,634,Heritage Jam Cake,grape jam
+8068,635,Heritage Jam Cake,Kentucky Fruit Filling
+8071,636,Mango Cake,mango puree
+8075,637,Mincemeat Cake,Caramel Cream Frosting
+8077,638,Orange Slice Cake I,orange flavored fruit jelly candies
+8080,639,Amazing Corn Cake,cream style corn
+8084,640,Jeweled Fruitcake,peach brandy
+8085,641,Quick Fruitcake,mincemeat pie filling
+8086,642,Black Forest Chocolate Cake,fat free sweetened condensed milk
+8086,643,Black Forest Chocolate Cake,oil substitute
+8093,644,Japanese Fruit Cake I,seven minute frosting
+8095,645,Black Forest Cake I,sour cherries
+8100,646,Wacky Cake V,sugar substitute
+8111,647,Cameo Cake,white chocolate chips
+8118,648,Cranberry Cake,cranberry applesauce
+8122,649,Caterpillar Cake,vanilla or colored frosting
+8139,650,Gluten-Free Yellow Cake,gluten free vanilla extract
+8140,651,Black Ice,cocoa
+8144,652,Mardi Gras King Cake,PASTRY:
+8144,653,Mardi Gras King Cake,FILLING:
+8144,654,Mardi Gras King Cake,FROSTING:
+8150,655,Persimmon Pudding Cake,persimmon pulp
+8154,656,Orange Slice Cake II,orange slices candy
+8158,657,Non-Dairy Chocolate Cake with German Chocolate Frosting,barley malt syrup
+8158,658,Non-Dairy Chocolate Cake with German Chocolate Frosting,brown rice syrup
+8158,659,Non-Dairy Chocolate Cake with German Chocolate Frosting,silken tofu
+8166,660,Champagne Cake I,champagne
+8172,661,Blueberry Snow,blueberry pie filling
+8179,662,Gumdrop Fruitcake,gumdrops no black ones
+8182,663,Cannoli Cake Roll,pistachio nuts
+8184,664,Neapolitan Bundt Cake,strawberry extract
+8186,665,Apple Kuchen,Granny Smith apples
+8189,666,Port Wine Chocolate Cake,port wine
+8193,667,Chocolate Butterschnapps Cake,butterscotch schnapps
+8195,668,Sinful Flourless Espresso Cake,espresso coffee
+8196,669,Southern Praline Pecan Cake,butter pecan cake mix
+8196,670,Southern Praline Pecan Cake,coconut pecan frosting
+8197,671,Southern Comfort Cake,Southern Comfort liqueur
+8202,672,Hungarian Chestnut Cake,whole chestnuts
+8204,673,Baked Apple-Pecan Maple Pancakes,pancake/waffle mix
+8205,674,Soda Pop Strawberry Angel Food Cake,strawberry flavored carbonated beverage
+8207,675,Sugar Free Applesauce Cake,apple juice concentrate
+8207,676,Sugar Free Applesauce Cake,Macintosh apples
+8207,677,Sugar Free Applesauce Cake,unsweetened apple butter
+8208,678,Polish Rice Cake,long grain white rice
+8208,679,Polish Rice Cake,half half cream
+8215,680,Festive Prune Cake,prune juice
+8221,681,Black Bottom Cupcakes I,miniature semisweet chocolate chips
+8224,682,Raspberry Almond Cake,raspberry jam
+8225,683,Root Beer Cake I,root beer extract
+8225,684,Root Beer Cake I,root beer
+8226,685,Butterscotch Spice Cake,spice cake mix
+8232,686,Chocolate Pudding Cake I,milk chocolate
+8244,687,Semolina Turmeric Cake (Sfoof),turmeric
+8244,688,Semolina Turmeric Cake (Sfoof),pine nuts
+8253,689,Cajun Cake,Cajun Cake:
+8254,690,Fresh Coconut Cake,Fresh Coconut Cake:
+8254,691,Fresh Coconut Cake,coconut meat
+8254,692,Fresh Coconut Cake,Coconut Frosting:
+8266,693,Bible Cake,milk Judges 5:25
+8266,694,Bible Cake,white sugar Jeremiah 6:20
+8266,695,Bible Cake,figs
+8266,696,Bible Cake,raisins Samuel 30:11
+8266,697,Bible Cake,almonds Numbers 17:8
+8266,698,Bible Cake,honey 1st Samuel 14:25
+8266,699,Bible Cake,salt Leviticus 2:13
+8278,700,Champagne Cake With Buttercream Icing,edible carnations
+8279,701,Mountain Dew™ Cake,Mountain Dew™
+8286,702,Peach Upside-Down Cake III,lowfat buttermilk
+8290,703,Fresh Fig Cake,fat free evaporated milk
+8292,704,Whipped Cream Icing II,piping gel
+8293,705,Hamburger Cake,yellow paste food coloring
+8293,706,Hamburger Cake,brown paste food coloring
+8293,707,Hamburger Cake,orange chewy fruit flavored candy
+8293,708,Hamburger Cake,shaped spearmint gumdrops
+8293,709,Hamburger Cake,red gumdrops
+8293,710,Hamburger Cake,white gumdrops
+8293,711,Hamburger Cake,candy lime
+8304,712,Aunt Lydia's Apple Cake,tapioca
+8305,713,Italian Cassata,pound cake mix
+8326,714,Garden Club Cake,caffeinated citrus flavored soda
+8338,715,Cannoli,cannoli shells
+8340,716,O.D.'s Strawberry Jam Cake,strawberry jam
+8345,717,Caramel Nougat Bar Cake,caramel candy
+8345,718,Caramel Nougat Bar Cake,milk chocolate frosting
+8359,719,Cream Cheese Pineapple Frosting,pineapple pie filling
+8377,720,Cake in a Jar,straight sided wide mouth canning jars
+8381,721,Green Tomato Cake,green tomatoes
+8385,722,Italian Fresh Purple Grape Cake,extra virgin olive oil
+8385,723,Italian Fresh Purple Grape Cake,purple grapes
+8397,724,Baby Ruth™  Layer Cake,Baby Ruth ™ candy bars
+8398,725,Sugarless Applesauce Cake,brown sugar twin
+8399,726,Elegant Southern Jam Cake,seedless fruit preserves
+8403,727,Cupcake Graveyard,chocolate covered graham cracker cookies
+8408,728,Barm Brack,black tea
+8410,729,Yum Yum Cake I,reserved pineapple juice
+8419,730,Easy Sour Cream Cheesecake,shortbread pie crust
+8432,731,Orange Rice Cake,white rice
+8433,732,Pumpkin Roll with Toffee Cream Filling and Caramel Sauce,toffee candy
+8444,733,Black Forest Cake II,kirschwasser
+8444,734,Black Forest Cake II,Bing cherries
+8447,735,Chocolate Hazelnut Cake,toasted hazelnuts
+8456,736,Fuzzy Navel Cake I,peach schnapps
+8461,737,Pineapple Macadamia Nut Cake,spiced rum
+8463,738,Beer Cake II,cherry juice
+8470,739,Noel Fruitcake,jellied cranberry sauce
+8473,740,Cream Cheese Frosting III,low fat margarine
+8492,741,White Chocolate Amaretto Cake,instant white chocolate pudding mix
+8493,742,Chicken With Mushrooms,mushrooms
+8493,743,Chicken With Mushrooms,boneless chicken breast
+8494,744,Jamaican Jerked Chicken,whole chicken
+8495,745,Chicken Cordon Bleu I,ham
+8497,746,Swiss Chicken Casserole I,condensed cream of chicken
+8497,747,Swiss Chicken Casserole I,bread stuffing mix
+8498,748,Tangy Chicken Breasts,Worcestershire sauce
+8499,749,Basic Chicken Salad,chicken meat
+8499,750,Basic Chicken Salad,celery
+8500,751,Mary's Pecan Crusted Chicken,poultry seasoning
+8500,752,Mary's Pecan Crusted Chicken,boneless chicken breast thickness
+8502,753,Cranberry Chicken I,boneless chicken breasts
+8502,754,Cranberry Chicken I,onion mix
+8502,755,Cranberry Chicken I,French dressing
+8503,756,Hawaiian Chicken I,teriyaki sauce
+8504,757,Quick Chicken Enchiladas,condensed nacho cheese
+8504,758,Quick Chicken Enchiladas,salsa
+8504,759,Quick Chicken Enchiladas,green chiles
+8504,760,Quick Chicken Enchiladas,flour tortillas
+8505,761,Cashew Chicken I,cashews
+8505,762,Cashew Chicken I,buttery crackers
+8506,763,Florentine Curried Chicken,creamy salad dressing
+8506,764,Florentine Curried Chicken,curry powder
+8506,765,Florentine Curried Chicken,paprika
+8506,766,Florentine Curried Chicken,Monterey Jack cheese
+8507,767,Chicken In a Tarragon Sauce,tarragon
+8508,768,Parmesan Chicken I,converted long grain white rice
+8508,769,Parmesan Chicken I,condensed cream of mushroom
+8509,770,Crispy Herb Baked Chicken,chicken
+8510,771,Hot Chicken Salad I,American cheese
+8510,772,Hot Chicken Salad I,cornflakes cereal
+8511,773,Jazzy New Orleans Chicken,smoked sausage
+8511,774,Jazzy New Orleans Chicken,red bell peppers
+8511,775,Jazzy New Orleans Chicken,roma tomatoes
+8511,776,Jazzy New Orleans Chicken,chicken stock
+8512,777,Ginger Chicken,red potatoes
+8512,778,Ginger Chicken,green beans
+8513,779,Gypsy Chicken Stew,onions
+8513,780,Gypsy Chicken Stew,green chile peppers
+8513,781,Gypsy Chicken Stew,tomatoes
+8514,782,Sesame Wings,chicken wings
+8514,783,Sesame Wings,mustard
+8515,784,Chicken Curry I,bay
+8518,785,Chicken Spaghetti I,spaghetti
+8518,786,Chicken Spaghetti I,processed cheese
+8519,787,Chicken In Sour Cream,salt or to taste
+8520,788,Hawaiian Chicken II,sweet sour sauce
+8521,789,Mexicali,corn tortillas
+8521,790,Mexicali,chili
+8523,791,Chicken and Summer Squash,yellow squash
+8523,792,Chicken and Summer Squash,zucchinis
+8524,793,Chicken Breasts with Herb Basting Sauce,sage
+8524,794,Chicken Breasts with Herb Basting Sauce,hot pepper sauce
+8524,795,Chicken Breasts with Herb Basting Sauce,bone
+8526,796,Party Chicken I,bacon
+8526,797,Party Chicken I,beef
+8527,798,Garlic Chicken And Grapes,Dijon style mustard
+8527,799,Garlic Chicken And Grapes,white wine vinegar
+8527,800,Garlic Chicken And Grapes,seedless green grapes
+8530,801,Quick Sherry Chicken,white onions
+8532,802,Easy Cheesy Chicken I,condensed cream of Cheddar cheese
+8534,803,Bou's Chicken,ketchup
+8535,804,Breakfast Casserole,brown potatoes
+8535,805,Breakfast Casserole,potato chips
+8536,806,Sweet and Sour Chicken I,orange food color
+8537,807,Chicken Chow Mein,baby corn
+8540,808,Puff Pastry Roll,puff pastry
+8541,809,Carol's Arroz Con Pollo,garlic
+8541,810,Carol's Arroz Con Pollo,saffron
+8542,811,Chicken Tortilla Casserole,boneless chicken
+8544,812,Alice's Sour Cream Chicken Breasts,lemon pepper
+8546,813,Apple Stuffed Chicken Breast,Italian style bread
+8549,814,Honey Mustard Chicken,apricot jam
+8550,815,Sweet And Sour Chicken Meatballs,white bread
+8550,816,Sweet And Sour Chicken Meatballs,instant rice
+8551,817,Spinach Stuffed Chicken Breasts,feta cheese
+8552,818,Roasted Rosemary Chicken And Vegetables,balsamic vinegar
+8552,819,Roasted Rosemary Chicken And Vegetables,red pepper flakes
+8552,820,Roasted Rosemary Chicken And Vegetables,red onion
+8552,821,Roasted Rosemary Chicken And Vegetables,eggplant
+8553,822,Marinated Chicken Salad,mixed salad greens
+8553,823,Marinated Chicken Salad,green olives
+8553,824,Marinated Chicken Salad,radishes
+8554,825,Chicken with Red Grapes And Mushrooms,red wine
+8554,826,Chicken with Red Grapes And Mushrooms,seedless red grapes
+8555,827,Gourmet Chicken Salad,creamy cucumber salad dressing
+8556,828,Pollo Bella,half half
+8556,829,Pollo Bella,Gorgonzola cheese
+8556,830,Pollo Bella,penne pasta
+8559,831,Apricot Chicken I,Russian style salad dressing
+8561,832,Deviled Chicken Breasts,honey mustard
+8562,833,Chicken Noodle Soup,egg noodles
+8562,834,Chicken Noodle Soup,chicken bouillon
+8564,835,Chicken a la King I,chicken bouillon powder
+8564,836,Chicken a la King I,pimento
+8565,837,Becky's Chicken Salad,seedless grapes
+8566,838,Lemon Cilantro Chicken,cilantro
+8568,839,Chicken Salad Al La Barbara,pasta shape of your choice
+8568,840,Chicken Salad Al La Barbara,pineapple tidbits
+8570,841,Grilled Chicken Breast with Cucumber and Pepper Relish,cucumber
+8570,842,Grilled Chicken Breast with Cucumber and Pepper Relish,yellow bell pepper
+8572,843,Grilled Chicken with Salsa Barbecue Sauce,limes
+8574,844,Leah's Chicken with Chickpeas,garbanzo beans
+8575,845,Chili And Cheese Stuffed Chicken Breasts,wild rice
+8575,846,Chili And Cheese Stuffed Chicken Breasts,green chili
+8575,847,Chili And Cheese Stuffed Chicken Breasts,corn flakes cereal
+8576,848,Montana Grilled Chicken,Italian style salad dressing
+8578,849,Merwin's Chicken Marsala,Marsala wine
+8578,850,Merwin's Chicken Marsala,meat extract
+8579,851,Gkai Kamin,lemon grass
+8579,852,Gkai Kamin,whole white peppercorns
+8580,853,Pollo Fajitas,boneless chicken thighs
+8581,854,Sarah's Chicken Lasagna,lasagna noodles
+8581,855,Sarah's Chicken Lasagna,curd cottage cheese
+8583,856,Sticky Chicken,up chicken
+8583,857,Sticky Chicken,chutney
+8584,858,Holiday Chicken Salad,seasoning salt
+8585,859,Marinated Chicken Barbecue,horseradish
+8586,860,Elegant Chicken Athena,pomegranate syrup
+8587,861,Yammy Chicken,fat free condensed cream of mushroom
+8591,862,Peachy Chicken,beef consomme
+8591,863,Peachy Chicken,reduced fat sour cream
+8592,864,Parmesan and Basil Chicken Salad,whole boneless chicken breasts
+8595,865,Easy Creamy Peppercorn Chicken,peppercorn gravy mix
+8597,866,Quick and Easy Mexican Chicken,cooking spray
+8599,867,"Chicken, Cheese, and Biscuits",rubbed sage
+8599,868,"Chicken, Cheese, and Biscuits",chicken breast
+8599,869,"Chicken, Cheese, and Biscuits",biscuit dough
+8604,870,LaVanda's Fried Chicken,corn flakes
+8606,871,Ranch Crispy Chicken,ranch dressing mix
+8608,872,Chicken Newburg,avocado
+8609,873,Chicken Berry Salad,honey mustard salad dressing mix
+8609,874,Chicken Berry Salad,sugar snap peas
+8613,875,California Chicken,avocados
+8615,876,Pita Chicken,pita breads
+8615,877,Pita Chicken,lettuce
+8618,878,Easy Chicken Pot Pie,deep dish pie crusts
+8618,879,Easy Chicken Pot Pie,mixed vegetables
+8624,880,Chicken with Couscous,low sodium chicken broth
+8624,881,Chicken with Couscous,quick cooking couscous
+8624,882,Chicken with Couscous,jalapeno chile peppers
+8624,883,Chicken with Couscous,coriander seed
+8625,884,Chicken Crunch Casserole,chicken breasts
+8626,885,Yummy Honey Chicken Kabobs,skewers
+8627,886,White Chili I,cannellini beans
+8628,887,Yakisoba Chicken,chile paste
+8628,888,Yakisoba Chicken,onion lengthwise
+8628,889,Yakisoba Chicken,cabbage
+8628,890,Yakisoba Chicken,soba noodles
+8630,891,Warm Chicken Ranch Wraps,rice
+8630,892,Warm Chicken Ranch Wraps,ranch style salad dressing
+8631,893,Easy Slow Cooker Chicken,condensed cream of celery
+8634,894,Italian Chicken,cherry tomatoes
+8634,895,Italian Chicken,pimento stuffed green olives
+8636,896,Parmesan Chicken II,chicken drumsticks
+8637,897,Grilled Chicken with Ginger and Black Bean Sauce,black bean sauce
+8638,898,Pullum Frontonianum (Apicus Chicken),leek only
+8638,899,Pullum Frontonianum (Apicus Chicken),saturei
+8638,900,Pullum Frontonianum (Apicus Chicken),syrup from canned figs
+8640,901,Swiss Chicken Casserole II,herb stuffing mix
+8641,902,Texas Ranch Chicken,boneless chicken parts
+8641,903,Texas Ranch Chicken,Ranch style salad dressing
+8644,904,Raisin Rice Stuffed Chicken,whole chickens
+8645,905,South Of The Sea Chicken and Bananas,kiwi
+8646,906,Hot Chicken Sandwiches I,boiler chickens
+8649,907,Chicken Wings Pacifica,mustard powder
+8650,908,Fabulous Fajitas,green bell peppers
+8650,909,Fabulous Fajitas,Italian style salad dressing mix
+8651,910,Garden Chicken Stir Fry,zucchini squash
+8651,911,Garden Chicken Stir Fry,yellow summer squash
+8652,912,Garlic Chicken,Italian bread
+8653,913,Chicken and Apple Curry,hot chicken broth
+8654,914,Chicken and Artichokes,artichoke hearts
+8655,915,Chicken Melt,English muffins
+8656,916,Fresh Asparagus and Chicken Casserole,asparagus
+8657,917,Julie's Chicken Salad,tart apple
+8659,918,Mandarin Chicken Roll-Ups,salted cashews
+8666,919,Lemon Stuffed Chicken,stuffing mix
+8669,920,Chicken Cordon Bleu II,chicken bouillon granules
+8670,921,Chicken Fry,ginger garlic paste
+8670,922,Chicken Fry,garam masala
+8671,923,Oriental Chicken Salad,chicken breast meat
+8671,924,Oriental Chicken Salad,rice vinegar
+8671,925,Oriental Chicken Salad,peanut oil
+8671,926,Oriental Chicken Salad,ramen noodles
+8672,927,Kelaguen Chicken,hot chile pepper
+8673,928,King Ranch Chicken Casserole I,tortilla chips
+8675,929,Chicken O'Neill,Cajun seasoning
+8678,930,Chicken Papadoris,unsweetened coconut milk
+8681,931,Chicken and Sausage with Bowties,farfalle pasta
+8681,932,Chicken and Sausage with Bowties,hot Italian turkey sausage
+8682,933,Chicken a la Can Can,water chestnuts
+8682,934,Chicken a la Can Can,French fried onions
+8683,935,Chicken and Mushroom Saute,salt black pepper to taste
+8685,936,Richard's Chicken Breasts,portobello mushrooms
+8686,937,Savory Crescent Chicken,crescent rolls
+8686,938,Savory Crescent Chicken,croutons
+8687,939,African Chicken Stew,roasting chicken
+8687,940,African Chicken Stew,unsalted natural style peanut butter
+8688,941,Fancy Chicken Salad,dill
+8691,942,Chicken Enchiladas I,taco sauce
+8696,943,Chicken Tequila Fettuccini,fettuccine pasta
+8696,944,Chicken Tequila Fettuccini,tequila
+8697,945,Classic Chicken Tetrazzini,chicken tenderloins
+8699,946,Chicken and Leek Casserole,leeks
+8699,947,Chicken and Leek Casserole,condensed vegetable
+8699,948,Chicken and Leek Casserole,pastry
+8700,949,Chicken and Biscuit Casserole,baby carrots
+8700,950,Chicken and Biscuit Casserole,peas
+8703,951,Carole's Sesame Chicken Salad,napa cabbage
+8703,952,Carole's Sesame Chicken Salad,crispy fried rice noodles
+8705,953,Hot Chicken Salad II,butter crackers
+8707,954,Chicken Enchilada Casserole I,enchilada sauce
+8707,955,Chicken Enchilada Casserole I,processed cheese spread
+8711,956,Island Chicken with Fruit Salsa,mangos
+8711,957,Island Chicken with Fruit Salsa,lime juice pulp
+8714,958,Baked Lemon Chicken with Mushroom Sauce,chicken broth or more
+8716,959,Creole Chicken I,Polish sausage diagonally
+8718,960,Down Home Chicken,bacon grease
+8719,961,Heather's Best Ever Baked Chicken,cracked black pepper
+8720,962,Honey Mustard Grilled Chicken,Dijon mustard
+8720,963,Honey Mustard Grilled Chicken,steak sauce
+8722,964,Mexican Chicken I,black beans
+8723,965,Sunshine Chicken,chicken thighs
+8725,966,Slow Cooker Escalloped Chicken,white bread cubes
+8725,967,Slow Cooker Escalloped Chicken,reserved cooking liquid from chicken
+8727,968,One Dish Chicken Bake,chicken flavor stuffing mix
+8728,969,Owen's Chicken Rice,Chinese style sausages
+8728,970,Owen's Chicken Rice,shiitake mushrooms
+8731,971,"Pasta, Chicken and Artichokes",pasta
+8733,972,Italian Chicken with Garlic and Lemon,wine vinegar
+8736,973,Jerk Chicken and Pasta,jerk paste
+8737,974,Kowloon's Chinese Chicken Wings,gin
+8742,975,Thai-Style Chicken Wings,fish sauce
+8743,976,Thai Coconut Chicken,jasmine rice
+8743,977,Thai Coconut Chicken,inch asparagus
+8743,978,Thai Coconut Chicken,snow peas
+8747,979,Chicken Bake and Rice,Italian style dressing mix
+8750,980,Raspberry Vinegar Chicken Breasts,raspberry vinegar
+8751,981,Mango Salsa Chicken,red chile pepper
+8752,982,Ainaa's BBQ Chicken,ginger juice
+8753,983,Angel Hair Pasta with Peppers and Chicken,sugar snap pea pods
+8753,984,Angel Hair Pasta with Peppers and Chicken,smoked deli chicken
+8753,985,Angel Hair Pasta with Peppers and Chicken,angel hair pasta
+8755,986,Bloody Mary Chicken,bottled Bloody Mary mix
+8760,987,Easy Chicken Salad,sweet corn
+8761,988,Chicken Scampi II,boneless chicken breast lengthwise
+8762,989,Creamy Chicken Asparagus Casserole,cream of chicken
+8763,990,Creamy Garlic Mushroom Chicken,corn kernels
+8768,991,Sweet Spicy Wings,Louisiana style hot sauce
+8768,992,Sweet Spicy Wings,cayenne pepper or to taste
+8770,993,Teriyaki Chicken for the Busy Cook,or bottle orange flavored carbonated beverage
+8771,994,Chicken Delicious,celery salt
+8772,995,Creole Chicken II,chicken legs
+8773,996,Chicken and Stuffing,green peas
+8777,997,Cheesy Chicken Florentine,spinach souffle
+8778,998,Cajun Chicken Pasta,linguine pasta
+8779,999,Chicken Potato Salad,pickled cucumbers
+8780,1000,Quick Chicken Marsala,condensed golden mushroom
+8784,1001,Southern Chicken Salad,red leaf lettuce
+8786,1002,Easy Cheesy Chicken II,cheese flavored butter crackers
+8787,1003,Lowfat Baked Chicken,plain non fat yogurt
+8788,1004,Grilled Pineapple Chicken Sandwiches,sandwich rolls
+8790,1005,Chicken Salad Spread,low fat mayonnaise
+8790,1006,Chicken Salad Spread,sweet pickles
+8791,1007,Veggies and Chicken in Cream Sauce,yellow bell peppers
+8791,1008,Veggies and Chicken in Cream Sauce,sweet pickle relish
+8795,1009,Honey Lime Chicken Wings,whole chicken wings
+8797,1010,Lizzy's Creamy Chicken Bake,seasoning salt to taste
+8799,1011,"Okra, Chicken and Rice Casserole",brown rice
+8799,1012,"Okra, Chicken and Rice Casserole",okra
+8801,1013,Golden Chicken Tenders,dry stuffing mix
+8803,1014,Raspberry Chicken Salsa Torte,raspberry salsa
+8806,1015,Easiest Oven Baked Chicken,saltine crackers
+8808,1016,Chicken Pot Pie II,boneless chicken breast meat
+8812,1017,Game Hens Southwestern-Style,game hens
+8813,1018,Chicken Salad,salt free herb spice blend
+8815,1019,Best Chicken Quiche,poached boneless chicken breast
+8815,1020,Best Chicken Quiche,Gruyere cheese
+8816,1021,Party Chicken II,smoked beef
+8817,1022,Slow Cooker Chicken Cacciatore,spaghetti sauce
+8818,1023,Pico de Gallo Chicken Quesadillas,Pico de Gallo:
+8819,1024,Teriyaki Chicken,granulated sugar
+8821,1025,Breaded Parmesan Chicken,Italian style seasoning
+8824,1026,King Ranch Chicken Casserole II,low fat tortilla chips
+8828,1027,Almond Lemon Chicken,orange marmalade
+8831,1028,Mozzarella Parmesan Chicken,low fat cream of celery
+8831,1029,Mozzarella Parmesan Chicken,low fat mozzarella cheese
+8835,1030,Chicken Chili,whole tomatoes
+8838,1031,Apple and Orange Chicken,cream of chicken mix
+8845,1032,Onion Chicken in Balsamic Sauce,chicken quarters
+8852,1033,Peachy Chicken Picante,chunky salsa
+8854,1034,Broccoli Chicken Divan,condensed cream of broccoli
+8859,1035,Chinese Noodle Chicken,broccoli florets
+8859,1036,Chinese Noodle Chicken,Chinese noodles
+8865,1037,Grilled Chicken and Pasta Salad,steak seasoning to taste
+8865,1038,Grilled Chicken and Pasta Salad,rotini pasta
+8865,1039,Grilled Chicken and Pasta Salad,romaine lettuce
+8868,1040,Chicken Soup Casserole,condensed chicken rice
+8870,1041,BBQ Chicken Salad,barbeque sauce
+8870,1042,BBQ Chicken Salad,fat free mayonnaise
+8878,1043,Chicken Flautas,picante sauce
+8879,1044,Slow Cooker Carrot Chicken,Greek style seasoning
+8884,1045,Chicken Liver Appetizers,chicken livers
+8885,1046,Auto Parts Chicken,carrots diagonally
+8885,1047,Auto Parts Chicken,herb chicken broth
+8887,1048,Chicken Marsala,boneless chicken thick
+8887,1049,Chicken Marsala,cooking sherry
+8888,1050,Chicken Valdostano,fontina cheese
+8890,1051,General Tsao's Chicken,chile peppers sun
+8891,1052,Cindy's Tasty Wings,Catalina salad dressing
+8900,1053,Prune and Olive Chicken,capers
+8900,1054,Prune and Olive Chicken,red wine vinegar
+8903,1055,BBQ Sauce for Chicken,Burgundy wine
+8906,1056,Oven Barbecued Chicken,chile sauce
+8911,1057,True Love Chicken,garlic cloves
+8911,1058,True Love Chicken,spinach tagliatelle pasta
+8912,1059,Chicken Soup,chicken broth base
+8913,1060,Easy Flake Chicken,corn flake cereal
+8914,1061,Chinese Chicken Salad,Chinese noodles briefly to
+8916,1062,Chicken Hekka,mirin
+8916,1063,Chicken Hekka,bamboo
+8916,1064,Chicken Hekka,watercress
+8916,1065,Chicken Hekka,rice noodles
+8917,1066,Easy Deviled Chicken,herb bread stuffing mix
+8921,1067,"Creamy Chicken with Corn, Tarragon and Tomatoes",couscous
+8930,1068,Cocoa Fried Chicken,chicken tenders
+8931,1069,Garlic Caesar Chicken Tenders,chicken breast tenderloins or strips
+8931,1070,Garlic Caesar Chicken Tenders,Caesar style salad dressing
+8933,1071,Feta Chicken,tomato basil feta cheese
+8936,1072,Easy Cheesy Skillet Chicken,American processed cheese
+8938,1073,Cornish Game Hens with Garlic and Rosemary,Cornish game hens
+8939,1074,Pepper Chicken Piccata,sweet onions
+8940,1075,Lighter Chicken and Dumplings ,reduced fat cream of chicken
+8940,1076,Lighter Chicken and Dumplings ,low fat low sodium chicken broth
+8945,1077,Chicken Enchilada Casserole II,chili beans
+8946,1078,Monster Sour Cream Enchiladas,Colby longhorn cheese
+8947,1079,Buffalo Chicken Wings I,chicken wings wings
+8953,1080,Easy Mexican Fried Chicken,taco seasoning mix
+8955,1081,Pakistani Potato Chicken,garlic paste
+8955,1082,Pakistani Potato Chicken,red chile pepper or to taste
+8955,1083,Pakistani Potato Chicken,broiler/fryer chicken
+8958,1084,Quick Chicken and Noodles,wide egg noodles
+8959,1085,Ziti Chicken and Broccoli,ziti pasta
+8959,1086,Ziti Chicken and Broccoli,broccoli steamed
+8959,1087,Ziti Chicken and Broccoli,fried boneless chicken breast
+8962,1088,Chicken Stroganoff I,browning sauce
+8966,1089,Gerry's Chicken Enchiladas,chile peppers
+8968,1090,Chicken Gravy Enchilada Casserole,chicken gravy
+8971,1091,Granny's Smothered Chicken,whole cloves
+8972,1092,Forty Garlic Chicken,sweet vermouth
+8972,1093,Forty Garlic Chicken,unpeeled garlic
+8976,1094,Chicken Spaghetti II,processed cheese food
+8978,1095,Garlic Wine Chicken,Chablis or other white wine
+8980,1096,Coq au Vin alla Italiana,dark meat chicken
+8980,1097,Coq au Vin alla Italiana,sweet Italian sausage
+8984,1098,Uncle Bill's Sweet and Sour Sauce,pineapple juice concentrate
+8985,1099,Spanish Rice Chicken I,Spanish style rice mix
+8987,1100,Cheesy Chicken and Potato Casserole,scalloped potato mix
+8990,1101,Gourmet Chicken Pizza,pizza crust
+8998,1102,Darn Good Chicken,honey slightly
+9006,1103,Creme Fraiche Chicken,pasta your choice of shape
+9006,1104,Creme Fraiche Chicken,creme fraiche
+9010,1105,Chipotle Chicken,chipotle peppers
+9010,1106,Chipotle Chicken,baby spinach
+9013,1107,Chili Chicken II,chili sauce
+9015,1108,Dressed Up Chicken,honey ham
+9016,1109,Shannon's Lower Fat Chile Relleno,lowfat Monterey Jack cheese
+9018,1110,Chutney Chicken,hot chutney
+9021,1111,Satay Chicken Pizza,Thai peanut sauce
+9027,1112,Kung Pao Chicken,hot chile paste
+9028,1113,Barley Chicken Casserole,bacon meat
+9028,1114,Barley Chicken Casserole,button mushrooms
+9030,1115,Chicken Breasts Stuffed with Crabmeat,Dungeness crabmeat
+9031,1116,Tangy Cereal-Coated Chicken,wheat barley nugget cereal
+9033,1117,Three Pan Potato Enchiladas,red beans & rice mix
+9034,1118,Rosemary Chicken,salt free Cajun seasoning
+9038,1119,Anniversary Chicken I,teriyaki basting sauce
+9038,1120,Anniversary Chicken I,bacon bits
+9040,1121,Chicken A La Impress Me,smoked ham
+9041,1122,Devil Curry,red onions
+9041,1123,Devil Curry,candlenuts
+9041,1124,Devil Curry,shrimp paste
+9041,1125,Devil Curry,mustard seed
+9043,1126,Squash Stuffed Chicken Breasts,acorn squash
+9044,1127,Tomato Chicken Parmesan,pasta sauce
+9045,1128,Brie Cranberry and Chicken Pizza,cranberry sauce
+9045,1129,Brie Cranberry and Chicken Pizza,Brie cheese
+9047,1130,Last Night's Chicken,orange flavored carbonated beverage
+9049,1131,Spicy Tomato Chicken Casserole,nacho flavor tortilla chips
+9050,1132,Spicy Tomato Chicken,vermicelli pasta
+9050,1133,Spicy Tomato Chicken,baby peas
+9052,1134,Chinese Restaurant-Style Sesame Chicken,Chinese five spice powder
+9055,1135,Uncle Josh's Famous Chicken and Rice,lemon pepper to taste
+9055,1136,Uncle Josh's Famous Chicken and Rice,lemon herb seasoning to taste
+9055,1137,Uncle Josh's Famous Chicken and Rice,cumin to taste
+9055,1138,Uncle Josh's Famous Chicken and Rice,thyme to taste
+9057,1139,Chicken Bog,smoked sausage of your choice
+9060,1140,Updated Mulled Cider,cinnamon stick
+9063,1141,Apple Pecan Cornbread Dressing,pan cornbread
+9064,1142,"Artichoke, Mushroom and Parma Ham Tart",Parma ham
+9064,1143,"Artichoke, Mushroom and Parma Ham Tart",flat leaf parsley
+9065,1144,Baby Carrots And Brussels Sprouts Glazed With Brown Sugar and Pepper,Brussels sprouts scored
+9067,1145,Bacon Turnip Mash,orange turnip
+9067,1146,Bacon Turnip Mash,rendered bacon fat
+9068,1147,Amber's Super Stuffing,corn bread stuffing mix
+9069,1148,Baked Corn,corn muffin mix
+9071,1149,Aunt Wanda's Turkey Carcass Soup,carcass
+9072,1150,Baked Fennel with Gorgonzola Cheese,fennel untrimmed
+9073,1151,Baked Miniature Pumpkins,sugar pumpkin
+9075,1152,Baked Sweet Potato Wedges,sweet potatoes lengthwise
+9079,1153,Bing Cherry Gelatin Salad,black cherry flavored Jell O® mix
+9082,1154,Broccoli Casserole with Rice,process cheese sauce
+9086,1155,Butternut Squash with Pecans,butternut squash
+9090,1156,Chess Pie,pie shell
+9091,1157,Chestnut Soup,chestnuts
+9095,1158,White Corn Pudding,white corn
+9099,1159,Cranberry Apple Gelatin Mold,oranges sectioned
+9099,1160,Cranberry Apple Gelatin Mold,lemon yogurt
+9100,1161,Cranberry Apple Sauce,unsweetened apple juice concentrate
+9105,1162,Cranberry-Orange Nut Bread,nuts
+9108,1163,Fluffy Cranberry Salad ,or cranberries
+9110,1164,Cranberry Salad III,cherry flavored Jell O® mix
+9114,1165,Cranberry Waldorf with Yogurt,red apple
+9115,1166,"Cranberry, Sausage and Apple Stuffing",tart apples
+9117,1167,Cream Cheese Corn,whole corn kernels
+9119,1168,Creole Cornbread Stuffing,Cornbread:
+9119,1169,Creole Cornbread Stuffing,Stuffing:
+9126,1170,Dressing Patties,turkey broth
+9129,1171,Extra Gingery Bread,dark molasses
+9129,1172,Extra Gingery Bread,crystallized ginger
+9133,1173,Glazed Pearl Onions With Raisins And Almonds,pearl onions
+9136,1174,Green Bean Casserole from Scratch,stuffing
+9139,1175,Bavarian Ice Cream Pie,premium vanilla ice cream
+9139,1176,Bavarian Ice Cream Pie,inch vanilla cookie crumb crust
+9140,1177,Green Turkey and Cheese Casserole,turkey
+9141,1178,Grilled Goose with Prune Stuffing and Gravy,whole goose
+9141,1179,Grilled Goose with Prune Stuffing and Gravy,rye bread
+9145,1180,Hearty Turkey Soup with Parsley Dumplings,picked over turkey carcass
+9145,1181,Hearty Turkey Soup with Parsley Dumplings,yellow onion
+9145,1182,Hearty Turkey Soup with Parsley Dumplings,rutabaga
+9146,1183,"Homestyle Turkey, the Michigander Way",whole turkey
+9148,1184,Insalata Cotta e Cruda,artichokes to the heart
+9148,1185,Insalata Cotta e Cruda,fennel
+9148,1186,Insalata Cotta e Cruda,baking potato
+9148,1187,Insalata Cotta e Cruda,Belgian endive
+9148,1188,Insalata Cotta e Cruda,to taste salt pepper
+9154,1189,Make-Ahead Mashed Potatoes,Yukon Gold potatoes
+9154,1190,Make-Ahead Mashed Potatoes,onion salt
+9155,1191,Maple Roast Turkey and Gravy,apple cider
+9155,1192,Maple Roast Turkey and Gravy,whole turkey neck
+9155,1193,Maple Roast Turkey and Gravy,apple brandy
+9156,1194,Mashed Root Vegetable Casserole with Caramelized Onions,baking potatoes
+9156,1195,Mashed Root Vegetable Casserole with Caramelized Onions,rutabagas
+9156,1196,Mashed Root Vegetable Casserole with Caramelized Onions,parsnips
+9158,1197,Michelle's Famous Washed Cranberry Sauce,cranberries picked through
+9161,1198,Mom's Great Green Beans,beef bouillon cube
+9161,1199,Mom's Great Green Beans,garlic pepper seasoning
+9165,1200,Nutty Wild Rice Salad with Kiwifruit and Red Grapes,kiwis
+9166,1201,Old-Fashioned Scalloped Corn,corn
+9169,1202,Spiced Orange Cranberry Sauce,cinnamon sticks
+9170,1203,Oyster Stuffing,cornbread
+9170,1204,Oyster Stuffing,turkey giblets
+9170,1205,Oyster Stuffing,oysters
+9171,1206,Patty's Mashed Turnips,turnips
+9172,1207,Peanut Brittle,Spanish peanuts
+9173,1208,French Tourtiere,pie shells
+9174,1209,Peanut Butter Pie,miniature chocolate covered peanut butter
+9175,1210,Pear Conserve with Cherries and Hazelnuts,Bosc pears
+9180,1211,Grandma's Potato Dumplings,square sandwich bread
+9188,1212,Pumpkin Pecan Cheesecake,pumpkin butter
+9191,1213,Pumpkin Soup,whole black peppercorns
+9193,1214,Red Cabbage With Apricots And Balsamic Vinegar,red cabbage
+9197,1215,Romaine with Garlic Lemon Anchovy Dressing,anchovy
+9202,1216,Sausage Stuffing,breakfast sausage
+9203,1217,Savory Turkey Gravy,turkey stock
+9206,1218,Screaming Potatoes,clean new red potatoes
+9210,1219,Spicy Persimmon Chutney,Fuyu persimmons
+9211,1220,Squash Casserole I,crookneck yellow squash
+9214,1221,Cranberry Stuffed Turkey Breasts,boneless turkey breasts
+9214,1222,Cranberry Stuffed Turkey Breasts,sweetened cranberries
+9218,1223,Sweet Potato Balls Appetizer,canned sweet potatoes
+9219,1224,Sweet Potato Casserole I,sweet potatoes undrained
+9220,1225,Sweet Potato Casserole II,reduced fat margarine
+9223,1226,Sweet Potato Casserole with Eggnog,eggnog
+9228,1227,Old-Fashioned Three Bean Salad,wax beans
+9229,1228,Three Cranberry Relish,cranberry juice concentrate
+9231,1229,Turkey Tenderloins,turkey tenderloins
+9232,1230,Twice Baked Potatoes I,mild Cheddar cheese
+9233,1231,Vegetarian Stuffing,vegetable broth
+9236,1232,Wild Mushroom Stuffing for Turkey,porcini mushrooms
+9236,1233,Wild Mushroom Stuffing for Turkey,egg bread crust
+9236,1234,Wild Mushroom Stuffing for Turkey,crimini mushrooms
+9239,1235,Yorkshire Pudding,beef drippings
+9240,1236,Roast Goose with Port Gravy,goose
+9240,1237,Roast Goose with Port Gravy,French bread
+9240,1238,Roast Goose with Port Gravy,tawny port wine
+9241,1239,Roast Goose with Stuffing,condensed chicken broth
+9242,1240,Roast Pork with Cranberry Glaze,cranberry juice
+9242,1241,Roast Pork with Cranberry Glaze,pork roast
+9248,1242,Sunday School Fudge,red green sprinkles
+9256,1243,Scandinavian Glogg,ruby port wine
+9256,1244,Scandinavian Glogg,pods green cardamom
+9258,1245,Candy Cane Cocoa,peppermint candy canes
+9259,1246,Wassail I,lady apples
+9259,1247,Wassail I,whole allspice berries
+9259,1248,Wassail I,liters ginger ale
+9260,1249,Sparkling Punch,liter club soda
+9260,1250,Sparkling Punch,sparkling apple cider
+9260,1251,Sparkling Punch,ice cubes
+9261,1252,Holiday Red Punch,fruit punch
+9271,1253,Festive Fruitcake I,whole or walnuts
+9293,1254,Minnehaha Cake,red green maraschino cherries
+9309,1255,Water Chestnut Wraparounds,shoyu
+9318,1256,Super Crispy Roasted Goose,giblet gravy
+9320,1257,White Chocolate Covered Pretzels,mini twist pretzels
+9320,1258,White Chocolate Covered Pretzels,red green candy sprinkles
+9323,1259,Leftover Pot Pie,leftover turkey
+9323,1260,Leftover Pot Pie,turkey gravy
+9324,1261,Calamari in Red Wine and Tomato Sauce,calamari
+9324,1262,Calamari in Red Wine and Tomato Sauce,Chianti wine
+9326,1263,Christmas Carol Punch,red apples
+9326,1264,Christmas Carol Punch,clear apple cider
+9328,1265,Ricotta Pie (Old Italian Recipe),Pie Filling:
+9328,1266,Ricotta Pie (Old Italian Recipe),miniature semisweet chocolate chips or to taste
+9328,1267,Ricotta Pie (Old Italian Recipe),Sweet Crust:
+9329,1268,Gingerbread Men,cook serve butterscotch pudding mix
+9331,1269,Spiced Apples,cinnamon red hot candies
+9332,1270,Tangy Classic Daiquiris,ice
+9335,1271,Hot Cocoa Mix,powdered non dairy creamer
+9336,1272,Alaska Salmon Bake with Pecan Crunch Coating,salmon
+9336,1273,Alaska Salmon Bake with Pecan Crunch Coating,lemon wedges
+9342,1274,Chocolate Peanut Butter Pie,graham cracker crusts
+9347,1275,Nana's Christmas Stollen,candied citrus
+9349,1276,"Roasted Pork, Fennel, and Onions",cumin seed
+9352,1277,Chocolate Rum Mousse Pie,chocolate cookie crumb crust
+9354,1278,Frozen Christmas Pudding,sultana raisins
+9354,1279,Frozen Christmas Pudding,fruit juice
+9354,1280,Frozen Christmas Pudding,chocolate ice cream
+9356,1281,Dad's Oyster Dressing,unopened live oysters
+9358,1282,Cheese Ball I,Ranch style dressing mix
+9359,1283,Classic Yule Log,marzipan
+9363,1284,Leg of Lamb,whole leg of lamb
+9364,1285,Ischl Tartlets,raspberry preserves
+9376,1286,Cranberry Raspberry Sauce,Merlot wine
+9377,1287,Roasted Vegetables,salt black pepper
+9378,1288,Candy Popcorn Cake,candy coated milk chocolate
+9380,1289,Roast Leg of Lamb,leg of lamb
+9381,1290,Prime Rib,prime rib roast
+9382,1291,Festive Bean Spread,refried beans
+9383,1292,Hot Crab Dip Appetizer,canned crabmeat
+9386,1293,Caramel Corn I,unpopped popcorn
+9397,1294,Pepper Jelly,liquid pectin
+9399,1295,Pomegranate Jelly,pomegranate juice
+9401,1296,Salmon Patties I,canned salmon
+9406,1297,Maple Sponge Candy,maple flavored syrup
+9414,1298,Piccalilli,cauliflower
+9423,1299,Hot Spiced Cider,whole allspice
+9431,1300,Instant Russian Tea,instant tea
+9431,1301,Instant Russian Tea,orange flavored drink mix
+9431,1302,Instant Russian Tea,lemonade flavor drink powder
+9439,1303,"Cheesy, Creamy Company Potatoes",condensed cream of potato
+9441,1304,Cream Cheese Mints,peppermint oil
+9441,1305,Cream Cheese Mints,color food coloring paste
+9445,1306,Festive Holiday Bark,vanilla flavored confectioners' coating
+9445,1307,Festive Holiday Bark,pretzel twists
+9445,1308,Festive Holiday Bark,red green candy coated chocolate
+9451,1309,Fruitcake Cookies,red candied pineapple
+9451,1310,Fruitcake Cookies,green candied pineapple
+9454,1311,Greek Baklava,phyllo dough
+9458,1312,Spiced Tea Mix,lemon flavored ice tea mix
+9468,1313,Hard Rock Candy,cinnamon oil
+9470,1314,White Chocolate Gorp,crispy rice cereal
+9470,1315,White Chocolate Gorp,oat cereal
+9470,1316,White Chocolate Gorp,pretzel sticks
+9470,1317,White Chocolate Gorp,mini candy coated chocolate
+9472,1318,Coffee Liqueur I,whole vanilla bean
+9477,1319,Cappuccino Mix,instant chocolate drink mix
+9478,1320,Swedish Nuts I,mixed nuts
+9483,1321,Fruitcake Truffles,fruitcake
+9484,1322,Grandpa's Special Stuffing,salami
+9486,1323,Vegan Pumpkin Nog,vanilla rice milk
+9486,1324,Vegan Pumpkin Nog,vanilla flavored non dairy dessert
+9488,1325,Anytime Punch,lime sherbet
+9489,1326,White Chocolate Snack Mix,crispy corn cereal
+9492,1327,Wine Jelly,wine
+9492,1328,Wine Jelly,pectin
+9495,1329,Chestnut Souffle,chestnut puree
+9496,1330,Mock Eggnog,liters lemon lime flavored carbonated beverage
+9496,1331,Mock Eggnog,chocolate mint candies
+9503,1332,Cream Cheese Christmas Cookies,green sugar crystals
+9503,1333,Cream Cheese Christmas Cookies,red sugar crystals
+9506,1334,Creamy Guilt-Free Fudge,low fat sweetened condensed milk
+9508,1335,Creamy Dill Dip,onion rehydrated
+9508,1336,Creamy Dill Dip,Beau Monde ™ seasoning
+9513,1337,Old-Fashioned Peanut Brittle,white corn syrup
+9516,1338,Whipped Shortbread Cookies,red maraschino cherries
+9516,1339,Whipped Shortbread Cookies,green maraschino cherries
+9519,1340,Chow Mein Noodle Cookie,chow mein noodles
+9527,1341,Japanese Fruitcake,orange sectioned
+9542,1342,Creamy Divinity,white frosting mix
+9543,1343,Apple Bavarian Torte,Cheese Mixture:
+9543,1344,Apple Bavarian Torte,Apple Mixture:
+9544,1345,Baked Apples with Sweet Potato Stuffing,baking apples
+9555,1346,Caramel Turtles® Brownies,whole pecans
+9556,1347,No Fail Fudge,chocolate candy bar
+9557,1348,Raspberry Truffle Fudge,raspberry flavored liqueur
+9561,1349,Butternut Kisses,milk chocolate candy kisses
+9562,1350,Christmas Snack Mix,wheat nuts
+9563,1351,Granny's Shortbread Cookies,red decorator sugar
+9630,1352,Ghraybeh Cookies,clarified butter
+9630,1353,Ghraybeh Cookies,orange flower water
+9640,1354,Fructose Sugar Cookies,fructose
+9677,1355,Mint Chocolate Cookies,chocolate covered creamy mints
+9685,1356,Sugar Pretzels,crystal sugar
+9686,1357,Mincemeat Cookies I,mincemeat
+9698,1358,Walnut Brownies,carob powder
+9729,1359,Pistachio Wreaths,pistachios
+9733,1360,Seattle Macadamia Cookies,instant espresso
+9737,1361,Vanilla Crescent Cookies,vanilla bean
+9754,1362,Almond-Raspberry Meringue Bars,seedless red raspberry jam
+9766,1363,Chunks,whole cashews
+9774,1364,Mint Cookie Cookies,chocolate covered mint cookies
+9787,1365,Pastel Wafers,food coloring
+9792,1366,Lemon-Marmalade Cookie Sandwiches,lemon marmalade
+9793,1367,Anise Biscotti,anise extract
+9797,1368,Madeira Fingers,Madeira wine
+9808,1369,Caramel Pecan Cookies,rolls chocolate covered caramel candies
+9814,1370,Sugar Free Rugelach,apricot spreadable fruit
+9816,1371,Anzac Biscuits I,golden syrup
+9823,1372,Oatmeal Raisin Cookies II,corn oil spread
+9825,1373,Peanut Butter Shortbread Cookies,natural peanut butter
+9834,1374,Light and Chewy Cake Cookies,reduced fat white cake mix
+9841,1375,Applesauce Cocoa Cookies,granulated artificial sweetener
+9845,1376,Peanut Crunch Bars,high protein rice wheat cereal
+9848,1377,Chocolate Toffee Cookies I,chocolate covered toffee candy bars
+9862,1378,Stained Glass Window Cookies,fruit flavored candies
+9875,1379,Soft Whole Wheat Sugar Cookies,mini candy coated chocolates
+9882,1380,Old-Fashioned Soft Sugar Cookies,cinnamon sugar
+9890,1381,Frozen Strawberry Squares,pasteurized liquid egg whites
+9898,1382,Sugar-Free Spice Cookies,low sodium baking powder
+9901,1383,Chocolate Brittle Surprise,unsalted soda crackers
+9934,1384,Praline Strips,graham crackers or more
+9966,1385,Jesse's Toffee Bars,milk chocolate candy bar
+9971,1386,Chocolate Mint-Filled Cookies,peppermint patties
+9981,1387,Crisp Oatmeal Cookies,miniature semi sweet chocolate chips
+9984,1388,Meringue Kisses II,toffee baking bits
+9986,1389,Chocolate Peanut Butter Cup Cookies,chocolate covered peanut butter
+10029,1390,Mrs. Fields Cookie Recipe II,chocolate bar
+10040,1391,Nanaimo Bars I,vanilla custard powder
+10043,1392,Persimmon Cookies I,persimmons
+10044,1393,Belgian Christmas Cookies,green decorator sugar
+10046,1394,Austrian Peach Cookie,orange decorator sugar
+10049,1395,Butter Tarts,tart shells
+10051,1396,Cookie Pops on a Stick!!,popsicle sticks
+10052,1397,Owl Cookies,sugar cookie mix
+10054,1398,Cathedral Window Holiday Bars,rainbow colored miniature marshmallows
+10099,1399,Sun Up Cookies,whole wheat flake cereal
+10100,1400,Chocolate Fruit Bars II,instant cocoa powder
+10120,1401,Chocolate Covered Pretzels,pretzels
+10122,1402,Make Ahead Almond Butter Sticks,Make Ahead Cookie Mix
+10164,1403,Anise Cookies I,anise oil
+10170,1404,Chocolate Nut Biscotti,bittersweet chocolate bar
+10171,1405,Chocolate Covered Cherry Cookies III,maraschino cherry juice
+10180,1406,George's Chocolate Chip Cookies,dark chocolate chips
+10198,1407,Royal Icing II,meringue powder
+10224,1408,Surprise Cookies,chocolate covered caramel candies
+10228,1409,Egg Yolk Painted Christmas Cookies,assorted colors of paste food coloring
+10249,1410,Basic Sugar Cookies,Basic Cookie Mix
+10267,1411,Italian Fig Cookies I,whole orange
+10285,1412,Butterscotch Brownies II,Coffee Frosting
+10287,1413,Julie's Pizza Cookie,sweetened whipped cream
+10296,1414,Cherry Chip Cookies I,cherry baking chips
+10311,1415,Listy III,fruit preserves flavor
+10341,1416,Malted Milk Chip Cookies,chocolate covered malted milk balls
+10379,1417,Caramel Nougat Bar Peanut Butter Cookies,fun size milk chocolate covered caramel nougat candy
+10381,1418,Soft Oatmeal Raisin Cookies,fat free butter flavored granules
+10387,1419,Peanut Butter and Bran Cookies,wheat bran
+10404,1420,Fig Cookies,fig preserves
+10407,1421,Mrs. Fields Sugar Cookies,colored sugar
+10415,1422,Lollipop Cookie Valentines,craft sticks
+10421,1423,Two Hearts Together,pink decorator sugar
+10470,1424,Valentine Heart Necklaces,long red vine licorice
+10477,1425,Chocolate Mint Cookies I,chocolate mint wafer candies
+10498,1426,Marco Polo Peanut Cookies,bran flakes cereal
+10518,1427,Thimble Cookies,raspberry jam or jelly
+10524,1428,Toffee Chocolate Chip Cookies,almond brickle chips
+10553,1429,Stained Glass Cookies,sourball candies
+10578,1430,Sugar Free Cinnamon Cookies,fructose sweetener
+10585,1431,Marble Bars,chocolate flavored crispy rice cereal
+10589,1432,Moist and Chewy Peanut Butter Cookies,reduced fat peanut butter
+10594,1433,Walnut Biscotti,black walnut extract
+10625,1434,Frosted Corn Flake Cereal Clusters,sugar frosted corn flake cereal
+10631,1435,Grapefruit Bars,grapefruit juice
+10631,1436,Grapefruit Bars,grapefruit
+10640,1437,Caramel Slices,shortening slightly
+10643,1438,Cookie Mix in a Jar IV,chocolate covered raisins
+10647,1439,Cookie Mix in a Jar VI,chocolate chips
+10682,1440,Baby Ruth Cookies,mini chocolate coated peanut nougat candy eg: Baby Ruth TM
+10690,1441,Cinderellas,chocolate frosting mix
+10692,1442,Chocolate Lover's Dream Cookies,chocolate candies
+10702,1443,Jam Thumbprints,strawberry preserves
+10735,1444,Worm Cookies,chocolate cookie dough
+10753,1445,Chocolate Mice,silver dragees decorating candy
+10768,1446,Havreflarn,bitter almonds
+10782,1447,Bird's Nests III,jellybeans
+10788,1448,Caramel Shortbread,high quality milk chocolate
+10812,1449,Pregnant Doll (Easter Baby),whole eggs
+10822,1450,Candy Bar Brownies,chocolate coated caramel peanut nougat candy
+10829,1451,Italian Egg Dough,anise flavored liqueur
+10843,1452,Peanut Butter Bars II,miniature chocolate covered peanut butter cups
+10845,1453,Molasses Cookies III,whole wheat pastry flour
+10846,1454,Praline Butter Cookies,praline liqueur
+10862,1455,Banana Oat and Bran Cookies,low fat plain yogurt
+10878,1456,Beer Nut Cookies,beer nut mix
+10937,1457,Pumpkin Cookies IV,gluten free baking powder
+10946,1458,Chewy Breakfast Bars,chocolate flavored cereal puffs
+10966,1459,Soda Cracker Cookies,soda crackers
+10974,1460,Funky Frito Fruckies,corn chips
+10976,1461,Baby Carrot Bars,junior baby food carrots
+10982,1462,Chocolate Chip Cake Mix Cookies,chocolate chip cake mix
+10987,1463,Lavender Cookies,lavender flowers
+10993,1464,Gloreo Cookies,powdered chocolate drink mix
+11006,1465,No Bake Deluxe Hamburger Cookies,vanilla wafer cookies
+11006,1466,No Bake Deluxe Hamburger Cookies,green gumdrops
+11006,1467,No Bake Deluxe Hamburger Cookies,rolls of apricot fruit leather
+11034,1468,Cinnamon Graham Crunchy Cookies,cinnamon graham crackers
+11040,1469,Play Dough Cookies,lollipop sticks
+11064,1470,Cookie Jar Sugar Cookies,To Layer In Jar:
+11064,1471,Cookie Jar Sugar Cookies,To Mix The Cookies:
+11072,1472,Cori's Krispie Cookies,colored crispy rice cereal
+11085,1473,Oatmeal-Walnut-Raisin Chewies,unsweetened nut grain granola
+11089,1474,Butterscotch Bars I,zwieback cracker
+11090,1475,Buffalo Chip Cookies,raisin bran cereal
+11107,1476,Easy Cookies,vanilla flavored cake mix
+11130,1477,Springerle IV,bakers' ammonia
+11146,1478,Nanaimo Bars II,pasteurized egg
+11212,1479,Candy Bar Squares,chocolate coated peanut nougat candy eg: Baby
+11229,1480,Puppy Chow I,crispy corn rice cereal
+11231,1481,Scrumdiddlyumptious Fudgy Caramel Chews,instant hot cocoa mix
+11234,1482,How to Make Sweetened Condensed Milk,powdered milk
+11245,1483,Half Moon Cookies,pearl sugar
+11279,1484,Rainbows,yellow decorator sugar
+11282,1485,Butterfinger Cookies,chocolate covered crispy peanut butter flavored candy
+11283,1486,Hazelnut Caramel Cookies,chocolate covered caramels
+11284,1487,Pina Colada Cookies I,pineapple flavored cake mix
+11304,1488,Homemade Dog Biscuits,tomato juice
+11313,1489,Cornmeal Cookies III,lime extract
+11323,1490,Old Fashioned Christmas Raisin Delights,vanilla
+11333,1491,Butterfinger Chunkies,chocolate covered crispy peanut butter candy
+11354,1492,Pumpkin Gobs,vanilla pudding
+11379,1493,Sugared Black Raspberry Tea Cookies,black raspberry jam
+11383,1494,Paydirt Peanut Butter Cookies,peanut butter cookie mix
+11384,1495,Lemon Curd Bars with Coconut,lemon curd
+11394,1496,Elena's Cookies,infant cereal
+11400,1497,Chocolate Puffed Wheat Squares,puffed wheat cereal
+11418,1498,Pumpkin Pie Bars,pumpkin pie filling
+11427,1499,Chocophiles,liquid unsweetened baker's chocolate
+11434,1500,Honeycomb Stix,whole wheat bread
+11451,1501,Sesame Raisin Cookies,unsweetened apple juice
+11454,1502,Dangerously Delicious Dates,pancake mix
+11456,1503,Truffle Cookies,powdered sugar
+11464,1504,Apple Cinnamon Oatmeal Cookie,apple cinnamon granola
+11466,1505,Ultimate Maple Snickerdoodles,maple sugar
+11470,1506,Gourmet Dog Biscuits,brewers' yeast
+11470,1507,Gourmet Dog Biscuits,beef broth
+11483,1508,Chewy Strawberry Oatmeal Cookie Crumble,strawberries cream instant oatmeal
+11488,1509,Cherry Poppyseed Twinks,cherry preserves
+11496,1510,Cherry Cookies,soy margarine
+11496,1511,Cherry Cookies,imitation vanilla extract
+11510,1512,Lemon Yummies,low fat lemon yogurt
+11513,1513,Chocolate Chip Cookies (Gluten Free),gluten free baking mix
+11515,1514,Mocha Mint Cheesecake Brownies,instant mocha mint coffee
+11522,1515,Peppermint Patty Surprise,mint chocolate chips
+11522,1516,Peppermint Patty Surprise,mini peppermint patties
+11526,1517,Zebra Cookies,chocolate candy kisses
+11535,1518,Double Batch Caramel Brownies,caramel dip
+11541,1519,Sugarless Health Cookies,aspartame sweetener
+11546,1520,Gilded Chocolate Shortbread,karat gold dust
+11547,1521,Chocolate Rainbow Cookie Bars,chocolate sweetened condensed milk
+11549,1522,Plum Jam Cookies,plum preserves
+11559,1523,Filled Strudel Cookies,sugarless raspberry jam
+11560,1524,Rosie's Raisin Rhapsody,raisin paste
+11560,1525,Rosie's Raisin Rhapsody,raisin juice concentrate
+11561,1526,Hawaiian Tarts,pineapple preserves
+11585,1527,Texas Brownies II,Brownies:
+11587,1528,Sugar Cookie Icing,assorted food coloring
+11599,1529,Sugar Free Spice Cookie,liquid artificial sweetener
+11614,1530,Pet Cookies,chicken baby food
+11638,1531,Non-Edible Cinnamon Ornaments,glue
+11644,1532,Laura's Tahini Cookies,tahini
+11652,1533,My Nancy's Pizzelles,unsalted margarine
+11664,1534,Rigatoni,rigatoni pasta
+11665,1535,Lucy's Mac and Corn,macaroni
+11666,1536,Mediterranean Farfalle,chorizo sausage
+11666,1537,Mediterranean Farfalle,basil leaves
+11667,1538,Shrimp and Artichoke Linguine,linguini pasta
+11669,1539,Greek Pasta with Tomatoes and White Beans,Italian style tomatoes
+11673,1540,Easy Crab Linguine,imitation crabmeat
+11677,1541,"Easy, Cheesy Baked Macaroni",seashell pasta
+11679,1542,Homemade Mac and Cheese,elbow macaroni
+11682,1543,Vodka Rigatoni,red peppers
+11686,1544,"Summer Pasta with Basil, Tomatoes and Cheese",vine ripened tomatoes
+11686,1545,"Summer Pasta with Basil, Tomatoes and Cheese",mint leaves
+11686,1546,"Summer Pasta with Basil, Tomatoes and Cheese",Asiago cheese
+11688,1547,Cajun Seafood Pasta,scallops
+11689,1548,Greek Pasta Salad I,whole black olives
+11690,1549,Thai Noodles,red chile sauce
+11690,1550,Thai Noodles,peanut sauce
+11693,1551,Puttanesca I,tomatoes pushed through a sieve
+11693,1552,Puttanesca I,anchovy filets
+11693,1553,Puttanesca I,Greek olives
+11694,1554,Ricotta Apple Lasagna,lasagne noodles
+11695,1555,Cavatelli and Broccoli,cavatelli pasta
+11696,1556,Mean Woman Pasta,kalamata olives
+11696,1557,Mean Woman Pasta,pepperoncini
+11697,1558,Tuna and Red Pepper Sauce,tuna
+11698,1559,Goat Cheese and Arugula over Penne,goat cheese
+11698,1560,Goat Cheese and Arugula over Penne,arugula
+11699,1561,Mussels Mariniere with Linguine,mussels
+11701,1562,Chicken and Cold Noodles with Spicy Sauce,whole bone
+11701,1563,Chicken and Cold Noodles with Spicy Sauce,chili oil
+11702,1564,Asian Noodles,capellini pasta
+11703,1565,Pasta Salad with Tuna and Broccoli,tuna steaks
+11705,1566,Ziti With Olives and Sun-Dried Tomatoes,black Greek olives
+11708,1567,Jim's Macaroni Salad,dill pickles
+11708,1568,Jim's Macaroni Salad,olives
+11712,1569,Wendy's Quick Pasta and Lentils,lentil
+11712,1570,Wendy's Quick Pasta and Lentils,ditalini pasta
+11713,1571,The Cheese Thing,reduced fat Colby cheese
+11717,1572,Spaghetti with Tomato and Sausage Sauce,beef sausage
+11723,1573,Cheese Ravioli with Fresh Tomato and Artichoke Sauce,cheese ravioli
+11728,1574,Italian Lasagna,Italian sausage
+11730,1575,Herbed Chicken and Fettuccini,chive onion cream cheese
+11744,1576,Fettuccini al Fungi,pesto
+11745,1577,Smoked Salmon Pesto Pasta,smoked salmon
+11745,1578,Smoked Salmon Pesto Pasta,basil pesto sauce
+11747,1579,Vegetable Lo Mein,bean sprouts
+11749,1580,Chicken Pesto a la Lisa,basil pesto
+11749,1581,Chicken Pesto a la Lisa,fusilli pasta
+11750,1582,Mac and Cheese I,nonfat cottage cheese
+11750,1583,Mac and Cheese I,reduced fat processed cheese food
+11750,1584,Mac and Cheese I,liquid smoke flavoring
+11752,1585,Italian Confetti  Pasta Salad,colored rotini pasta
+11753,1586,Pasta al Mediterraneo,perciatelli pasta
+11756,1587,Quick Chicken Zingarella,Italian cherry peppers
+11757,1588,Spaghetti with White Clam Sauce,clams
+11761,1589,Unique Spinach Noodles,spinach leaves
+11763,1590,Seafood Lasagna with Shrimp,flounder fillets
+11765,1591,Beef Parmesan with Garlic Angel Hair Pasta,beef cube steak
+11768,1592,Pasta with Spinach Pesto Sauce,low fat silken tofu
+11773,1593,Easy Fettucine Alfredo,evaporated skim milk
+11783,1594,Tasty Tortellinis,cheese tortellini
+11787,1595,Spinach Lasagna I,tofu
+11789,1596,Fra Diavolo Sauce With Pasta,bay scallops
+11792,1597,Old-Fashioned Chicken And Slick Dumplings,boneless chicken meat
+11792,1598,Old-Fashioned Chicken And Slick Dumplings,Irish potatoes
+11792,1599,Old-Fashioned Chicken And Slick Dumplings,celery tops
+11792,1600,Old-Fashioned Chicken And Slick Dumplings,rendered chicken fat
+11795,1601,Portobello Mushroom Ravioli with Prawns,prawns
+11802,1602,Spaghetti Sauce II,Italian sausage links
+11806,1603,Penne All' Arrabbiata,canned whole tomatoes
+11806,1604,Penne All' Arrabbiata,pancetta bacon
+11812,1605,Corned Beef Noodle Casserole,corned beef
+11813,1606,Pasta Salad I,cauliflower florets
+11814,1607,Linguine with Seafood and Sundried Tomatoes,clam juice
+11824,1608,Pumpkin Seed Cream Sauce,pumpkin seeds
+11824,1609,Pumpkin Seed Cream Sauce,canned green chile peppers
+11826,1610,Pumpkin Ravioli with Hazelnut Cream Sauce,pasta sheets
+11826,1611,Pumpkin Ravioli with Hazelnut Cream Sauce,sorrel
+11835,1612,Peanut Butter Noodles,Udon noodles
+11836,1613,Stuffed Shells I,pasta shells
+11840,1614,Pink Sauce for Pasta (Shrimp),tomato puree
+11844,1615,Mexican Lasagna with Noodles,extra beef
+11844,1616,Mexican Lasagna with Noodles,Pepper Jack cheese
+11845,1617,Chicken And Artichoke Penne With A White Sauce,homemade bechamel sauce
+11853,1618,Orzo with Parmesan and Basil,orzo pasta
+11856,1619,Penne a la Vodka I,yellow onions
+11857,1620,Make-Ahead Manicotti,manicotti shells
+11859,1621,Pasta With White Clam Sauce,white clam sauce
+11860,1622,Garlic Oyster Linguini,French style green beans
+11860,1623,Garlic Oyster Linguini,seafood stock
+11860,1624,Garlic Oyster Linguini,crabmeat
+11863,1625,Ham Skroodle Salad,tri color spiral pasta
+11866,1626,Pasta e Fagioli with Ham,beef stock
+11868,1627,Onion Pasta,pasta according to package directions
+11871,1628,Pan Pierogies,instant potato flakes
+11872,1629,Fettuccini Alfredo II,nonfat evaporated milk
+11874,1630,Seafood Pea-Asta Salad,black eyed peas
+11874,1631,Seafood Pea-Asta Salad,broccoli florets parboiled
+11876,1632,Three Meat Cannelloni Bake,veal
+11881,1633,Chile Pasta Salad,bow tie pasta
+11882,1634,Mom's Macaroni Salad,cucumbers
+11891,1635,Main Dish Macaroni Salad,corkscrew pasta
+11896,1636,Angel Hair Pasta Salad,bay shrimp
+11898,1637,Asian Pasta Salad,Asian style salad dressing
+11900,1638,Spinach Lasagna II,spaghetti sauce mix
+11902,1639,Bella's Mac and Cheese,extra sharp Cheddar cheese
+11904,1640,Creamy Chicken on Linguine,green onions diagonally
+11906,1641,Baked Pasta,brown gravy
+11910,1642,Ramen Spinach Pasta Salad Supreme,chicken flavored ramen noodles
+11910,1643,Ramen Spinach Pasta Salad Supreme,grape clusters
+11916,1644,Easy Manicotti Florentine,manicotti pasta
+11917,1645,Crab Pasta Salad,balsamic vinaigrette salad dressing
+11918,1646,Missy's Lasagna,instant lasagna noodles
+11923,1647,The Best Spaghetti Salad,orange bell pepper
+11926,1648,Cold Szechuan Noodles and Shredded Vegetables,tamari
+11928,1649,Pasta Salad II,Old Bay Seasoning TM
+11928,1650,Pasta Salad II,zesty Italian dressing
+11930,1651,Rigatoni with Pizza Accents,tomatoes undrained
+11933,1652,Easy Spinach Lasagna with White Sauce,Alfredo style pasta sauce
+11938,1653,Pasta and Salmon Salad,tri colored pasta assortment
+11943,1654,Ziti with Tomato-Pesto Sauce,tomato basil pasta sauce
+11946,1655,Nutritious and Delicious Pasta,low sodium tomato vegetable juice cocktail
+11947,1656,All Day Versatile Sauce,beef neck bones
+11950,1657,Herbed Chicken Pasta,linguine
+11952,1658,Chicken and Pumpkin Lasagna,cream of pumpkin
+11956,1659,Pasta Poblano,poblano chile pepper
+11957,1660,Foglie Chef Doogie's D'Autunno with Chicken and Portobella Mushrooms,foglie d'autumn pasta
+11957,1661,Foglie Chef Doogie's D'Autunno with Chicken and Portobella Mushrooms,Chardonnay wine
+11969,1662,Pasta Bake,mostaccioli pasta
+11979,1663,Tallerine,Mexican style corn
+11980,1664,Pierogi I,Sauerkraut Filling OR
+11980,1665,Pierogi I,Potato Cheese Filling
+11981,1666,Spaghetti Sauce with Meat,flank steak
+11982,1667,Pasta with Mock Creamy Tomato Sauce,asparagus diagonally
+11988,1668,Jimmy the Saint's Sausage and Pepper Sauce,Italian style whole tomatoes
+11988,1669,Jimmy the Saint's Sausage and Pepper Sauce,spicy Italian sausage
+11992,1670,Linguine Pescadoro,can whole baby clams
+11992,1671,Linguine Pescadoro,salad shrimp
+12010,1672,Prawn Pasta,cider
+12024,1673,Fettuccini Alfredo With Sausage,Locatella cheese
+12025,1674,Seafood Linguine,canned shrimp
+12025,1675,Seafood Linguine,crab meat
+12026,1676,Asian Carryout Noodles,bok choy
+12035,1677,Spaghetti with a Kick,sweet corn kernels
+12037,1678,Tuna Pasta Salad,iceberg lettuce
+12037,1679,Tuna Pasta Salad,creamy Italian salad dressing or more to taste
+12038,1680,Bohemian Macaroni and Cheese,macaroni cheese
+12041,1681,"Chicken, Sausage and Zucchini Pasta",Italian sausages
+12042,1682,Salsa Pasta Salad,rainbow radiatore pasta
+12045,1683,Portobello Mushroom Pasta,portabello mushrooms
+12051,1684,"Chicken, Garlic, and Sundried Tomato Pasta",sun tomatoes rehydrated
+12056,1685,Classic Italian Pasta e Fagioli,cranberry beans
+12057,1686,Chicken and Spaghetti,broccoli carrots
+12058,1687,Pasta with Sweet Peas,canned green peas
+12071,1688,Lena's Pasta Fazul,canned cannellini beans
+12073,1689,Three Cheese Baked Pasta,tomato pasta sauce
+12087,1690,Marshall Islands Macadamia Nut Pie,raw macadamia nuts
+12095,1691,Mulberry Rhubarb Pie,mulberries
+12098,1692,Cantaloupe Pie I,cantaloupe
+12115,1693,Chile Rellenos Pie,jalapeno sauce
+12115,1694,Chile Rellenos Pie,Cheddar Monterey Jack cheese blend
+12115,1695,Chile Rellenos Pie,tomatillo
+12120,1696,Blackberry and Blueberry Pie,Pie Crust:
+12123,1697,"Apple, Cranberry, and Pear Crisp",Rome Beauty apples
+12123,1698,"Apple, Cranberry, and Pear Crisp",Comice pears
+12128,1699,Rhubarb Cherry Pie,quick cooking tapioca
+12128,1700,Rhubarb Cherry Pie,Pastry
+12138,1701,Pavlova Deluxe,passion fruits
+12143,1702,Chocolate Peanut Butter Pie II,single serve ready made fat free chocolate pudding
+12143,1703,Chocolate Peanut Butter Pie II,reduced fat smooth peanut butter
+12146,1704,Elderberry Pie I,elderberries
+12150,1705,Rhubarb Orange Cream Pie,strawberry flavored Jell O® mix
+12151,1706,Banana Cream Pie I,pastry shell
+12155,1707,Creamy Blueberry Pie,For the Custard:
+12155,1708,Creamy Blueberry Pie,For the Streusel:
+12163,1709,Clam Chowder Tart,shell clams
+12164,1710,Coal Miners Pasties,top steak
+12184,1711,Cherry Icebox Pie,vanilla wafer crust
+12193,1712,Velvety Walnut Fudge Pie,non instant chocolate fudge pudding mix
+12212,1713,Fresh Strawberry Almond Pie,pecan shortbread cookies
+12212,1714,Fresh Strawberry Almond Pie,strawberries hulled
+12225,1715,Strawberry Yogurt Pie I,strawberry flavored yogurt
+12233,1716,Butter Bean Custard Pie,butter beans
+12234,1717,Key Lime Pie III,bitters
+12246,1718,Cornish Pasty,rump roast
+12249,1719,New Zealand Pavlova,fruit
+12252,1720,Chocolate Mocha Pie,chocolate sprinkles
+12261,1721,Pineapple Mango Pie,instant tapioca
+12271,1722,Lauriee's Coconut Custard Pie,inch pie crust
+12278,1723,Lemon Chess Pie I,white cornmeal
+12285,1724,Limeade Pie,limeade concentrate
+12289,1725,Concord Grape Pie I,Concord grapes
+12290,1726,Mud Pie II,espresso
+12297,1727,"Red, White, and Blueberry Cheesecake Pie",sheets phyllo dough
+12297,1728,"Red, White, and Blueberry Cheesecake Pie",strawberry jelly
+12318,1729,Beef and Pepper Pie,sweet red peppers
+12329,1730,Avocado Lime Pie,sieved avocado pulp
+12338,1731,Grasshopper Pie I,creme de cacao
+12339,1732,Auntie's Wild Huckleberry Pie,huckleberries
+12340,1733,Watermelon Pie,watermelon flavored Jell O®
+12340,1734,Watermelon Pie,watermelon
+12351,1735,Fiesta Pear Dessert,Bartlett pears
+12361,1736,Raspberry Streusel Tart,Streusel:
+12361,1737,Raspberry Streusel Tart,Custard:
+12361,1738,Raspberry Streusel Tart,shortbread tart crust
+12363,1739,Tarte au Sucre I,tea
+12366,1740,Shamrock Silk Pie,Irish Mist liqueur
+12370,1741,Almond Melon Tart,pie crust mix
+12370,1742,Almond Melon Tart,style cream cheese
+12371,1743,Ham and Onion Pie,Jarlsberg cheese
+12374,1744,Bacon and Egg Breakfast Tarts,Canadian style bacon
+12378,1745,Company's Coming Pie,instant chocolate fudge pudding mix
+12384,1746,Three Berry Pie,Three Berry Filling:
+12390,1747,Peaches and Cream Pie I,peach flavored Jell O® mix
+12390,1748,Peaches and Cream Pie I,cling peaches
+12392,1749,Nectarine Pie,nectarines
+12394,1750,Apple Dumplings with Pie Crust,red currant jelly
+12407,1751,Deluxe Blackberry Pie,blackberry brandy
+12408,1752,Montgomery Pie,Bottom Layer:
+12408,1753,Montgomery Pie,Top Layer:
+12409,1754,Apple Crisp II,purpose apples
+12414,1755,Steak and Kidney Pie I,beef tenderloin
+12414,1756,Steak and Kidney Pie I,beef kidney
+12414,1757,Steak and Kidney Pie I,to taste salt pepper to taste
+12424,1758,Easy Peach Pie,deep dish graham cracker pie crust
+12424,1759,Easy Peach Pie,peach glaze
+12431,1760,Pam's Sugar Free Chocolate Pie,instant sugar free chocolate pudding mix
+12431,1761,Pam's Sugar Free Chocolate Pie,reduced calorie whipped topping
+12438,1762,Praline Pumpkin Pie I,egg custard mix
+12444,1763,Double Layer Chocolate Pie,fat free instant chocolate pudding mix
+12445,1764,Egg Tarts I,custard powder
+12448,1765,French Silk Chocolate Pie I,unsweetened baking chocolate
+12452,1766,Cornish Pastie II,boneless beef steak
+12453,1767,Oatmeal Pie III,inch pie crusts
+12460,1768,Ibby's Grasshopper Pie,white creme de cacao
+12462,1769,Three-Onion Pie with Feta or Goat Cheese,leeks only
+12462,1770,Three-Onion Pie with Feta or Goat Cheese,plum tomatoes
+12467,1771,Fruit Chiffon Pie,For the Fresh Strawberry Filling:
+12467,1772,Fruit Chiffon Pie,For the Swiss Meringue:
+12470,1773,Chocolate Mint Pie,mint chocolate chip ice cream
+12472,1774,Eggnog Pie with Rum,rum or to taste
+12477,1775,Steak and Kidney Pie II,steak
+12478,1776,Jim's Pineapple Cheese Pie,pineapple Jell O®
+12478,1777,Jim's Pineapple Cheese Pie,whipped cream cheese
+12492,1778,Pie Crust IV,vegetable shortening
+12498,1779,Red Leicester Pie,Red Leicester cheese
+12500,1780,Cipate Pie,pork tenderloin
+12500,1781,Cipate Pie,salt pork
+12511,1782,Light Coconut Pie,lowfat coconut flavored yogurt
+12512,1783,Argentine Meat Empanadas,Hungarian sweet paprika
+12512,1784,Argentine Meat Empanadas,hot paprika
+12512,1785,Argentine Meat Empanadas,puff pastry sheets
+12515,1786,Italian Pork Pie,black pepper or to taste
+12526,1787,Apple Pie II,Golden Delicious apples
+12530,1788,Sparkling Grapefruit Pie,pink grapefruit
+12531,1789,Pignoli Nut Pie,pignoli nuts
+12540,1790,Krispy Cream Pie,chocolate syrup or to taste
+12554,1791,Scottish Mince Pie,beef bouillon granules
+12557,1792,Cheddar Quiche,purpose baking mix
+12559,1793,Rice Pie,canned peas
+12562,1794,Torta Rustica,ham slices
+12572,1795,Banana Yogurt Pie,low fat evaporated milk
+12587,1796,Mincemeat Pie Filling,sweet pickle juice
+12587,1797,Mincemeat Pie Filling,sorghum
+12614,1798,Company Special,cook serve vanilla pudding
+12618,1799,Fruit Pizza II,sugar cookie dough
+12626,1800,Banana Cream Pie with Chocolate Lining,Irish whiskey
+12627,1801,Deep Dish Potato and Pumpkin Pie,russet potatoes
+12637,1802,Elegant White Chocolate Banana Cream Pie,white chocolate liqueur
+12637,1803,Elegant White Chocolate Banana Cream Pie,banana liqueur
+12647,1804,Jicama Pie,jicama
+12652,1805,Watermelon Harvest Pie,watermelon rind
+12655,1806,Ground Cherry Pie I,cherries husked
+12664,1807,Kreatopita Argostoli,lamb
+12672,1808,Jefferson Davis Pie,bourbon whiskey
+12673,1809,Mock Apple Pie II,double wide soda crackers
+12674,1810,Mock Graham Cracker Crust,high protein wheat flour
+12680,1811,Fried Apple Pies,For the Pastry:
+12680,1812,Fried Apple Pies,For the Apple Filling:
+12680,1813,Fried Apple Pies,white sugar or to taste
+12683,1814,Chocolate Mint Candy Pie,Brownie Crust:
+12683,1815,Chocolate Mint Candy Pie,marshmallow cream
+12689,1816,Pumpkin Chiffon Pie II,sugar free instant vanilla pudding mix
+12689,1817,Pumpkin Chiffon Pie II,reduced fat graham cracker pie crust
+12699,1818,Quick Caramel Apple Pie,fat free caramel dip
+12702,1819,Fried Squid with Pineapple (Muc Xao Thom),squid
+12705,1820,Cauliflower Shrimp Salad,creamy Italian style salad dressing
+12706,1821,Grilled Swordfish with Rosemary,swordfish steaks
+12707,1822,Creole Shrimp and Pasta Meuniere,hot pepper sauce to taste
+12707,1823,Creole Shrimp and Pasta Meuniere,jalapeno pepper sauce to taste
+12707,1824,Creole Shrimp and Pasta Meuniere,fines herbs
+12710,1825,Charbroiled Salmon,salmon steaks
+12711,1826,Shrimp Dip I,condensed cream of shrimp
+12712,1827,Marilyn's Cheesy Clam Chowder,white Cheddar cheese
+12715,1828,Fish Fillets Italiano,cod fillets
+12716,1829,Stuffed Halibut,halibut
+12717,1830,Merwin's Shrimp Gumbo,file powder
+12718,1831,Mussels Mariniere,mussels debearded
+12719,1832,New Orleans Shrimp,cracked black pepper to taste
+12719,1833,New Orleans Shrimp,fish stock
+12720,1834,Grilled Salmon I,salmon fillets
+12720,1835,Grilled Salmon I,garlic powder to taste
+12721,1836,Sole In Butter Sauce,sole
+12726,1837,Grilled Halibut I,steaks halibut
+12728,1838,Paella I,Spanish chorizo sausage
+12728,1839,Paella I,Arborio rice
+12728,1840,Paella I,Italian flat leaf parsley
+12730,1841,Grilled Tuna,albacore tuna steaks thick
+12730,1842,Grilled Tuna,hickory wood chips
+12732,1843,Fish Chowder,cod
+12732,1844,Fish Chowder,Old Bay Seasoning TM or to taste
+12736,1845,Baked Fish with Shrimp,red snapper fillets
+12741,1846,Wilma's Fish Casserole,haddock fillets
+12743,1847,Fish In A Vegetable Patch,halibut fillets
+12746,1848,Bahamian Mahi Mahi,mahi mahi fillets
+12750,1849,Mock Lobster,monkfish
+12752,1850,Tomatoes with Seafood Dressing,of lettuce
+12756,1851,Salmon With Green Fettuccine,spinach fettuccine pasta
+12757,1852,Fish Taquitos,shark fillets
+12762,1853,Crawfish Etoufee with Cream of Mushroom,crawfish tails
+12763,1854,Lobster de Jonghe,lobster meat
+12766,1855,Portuguese Steamed Clams,chorizo
+12768,1856,Lemony Steamed Fish,salt or more to taste
+12770,1857,Crab and Snow Pea Tartlets,pods snow peas
+12771,1858,Grilled Shrimp Scampi,red pepper flakes to taste
+12773,1859,Lobster Salad with Red Devil Dressing,lobster tails
+12774,1860,Ultimate Gulf Coast Gumbo,andouille sausage
+12775,1861,Spicy Grilled Shrimp,wedges lemon
+12781,1862,Rainbow Trout with Yogurt Sauce,rainbow trout
+12782,1863,Spicy Red Snapper,red snapper
+12784,1864,Fish Stock,onion thickly
+12786,1865,Baked Fish Dinner For Two,white fish fillets
+12786,1866,Baked Fish Dinner For Two,parsley or fennel
+12789,1867,Tartar Sauce II,salt white pepper to taste
+12794,1868,Spicy Stuffed Squid,anchovy paste
+12795,1869,Pan Fried Whole Trout,whole trout
+12796,1870,Citrus Ceviche,sea bass fillets thick
+12797,1871,Trout Amandine,whole trout pan dressed
+12799,1872,Crab Dip,crusty Italian bread
+12801,1873,Rockin' Oysters Rockefeller,unopened oysters
+12801,1874,Rockin' Oysters Rockefeller,black peppercorns
+12804,1875,Seared Scallops with Spicy Papaya Sauce,papaya
+12804,1876,Seared Scallops with Spicy Papaya Sauce,sea scallops
+12807,1877,Cheesy Catfish,catfish
+12808,1878,Great Start Crab Dip/Spread,fat free Catalina salad dressing
+12810,1879,Shrimp and Crab Enchiladas,green enchilada sauce
+12812,1880,New Orleans Barbequed Shrimp,shrimp heads off unpeeled
+12821,1881,Firehouse Clam Bake New England Style,lobsters
+12821,1882,Firehouse Clam Bake New England Style,white potatoes
+12821,1883,Firehouse Clam Bake New England Style,ears corn
+12821,1884,Firehouse Clam Bake New England Style,bratwurst
+12821,1885,Firehouse Clam Bake New England Style,hot dogs
+12832,1886,Bouillabaisse,fennel leaf
+12832,1887,Bouillabaisse,sea bass
+12832,1888,Bouillabaisse,saffron threads
+12833,1889,Chili Tuna Roll-Ups,sweet chili sauce
+12835,1890,Salmon Patties,pink salmon
+12837,1891,Barbeque Halibut Steaks,halibut steak
+12844,1892,Freeda's Fabulous Fish,soy based steak marinade
+12846,1893,Dorsey's Fish & Oyster House Crab Cakes,Old Bay Seasoning™
+12847,1894,Garlic Crab Artichoke Dip,garlic mushroom mix
+12848,1895,Crayfish Cornbread,crawfish
+12848,1896,Crayfish Cornbread,corn bread mix
+12851,1897,Tuna Noodle Casserole II,processed American cheese
+12859,1898,Orange Roughy with Citrus Sauce,orange roughy fillets
+12862,1899,Oyster Stew,oysters undrained
+12864,1900,Tiger Prawn Special,tiger prawns
+12869,1901,Acapulco Margarita Grouper,grouper
+12869,1902,Acapulco Margarita Grouper,jalapeno
+12871,1903,Deep Fried Lobster,lobster tails but still
+12872,1904,Tasty Tuna Burgers,hamburger buns
+12873,1905,Lemon Pepper Pasta Seafood,lemon pepper linguine
+12876,1906,Egg Rolls,wonton wrappers
+12877,1907,Spicy Shrimp Creole,julienne celery
+12879,1908,Seafarer's Newburg,potato rounds
+12883,1909,Hearty Hot or Cold Roasted Tomato Soup,Roma tomatoes
+12885,1910,Yummy Beef or Venison Stew,venison
+12891,1911,Beef and Wine Soup with Dumplings,condensed beef broth
+12892,1912,Jim Kaczmarek's Chili,beef chuck
+12895,1913,Ground Turkey Soup,pearl barley
+12898,1914,Soup For Couscous,vegetable bouillon
+12900,1915,Christmas Eve Beef Stew,beef stew meat
+12901,1916,Black Bean Soup I,ham bone
+12904,1917,Mussel and Potato Stew,broccoli rabe stems
+12907,1918,Luscious Lima Bean Soup,lima beans
+12908,1919,Italian Halibut Chowder,halibut steaks
+12913,1920,Oxtail Soup I,beef oxtail
+12914,1921,Provincial Beef Stew,blade roast
+12914,1922,Provincial Beef Stew,pickled pearl onions
+12915,1923,Spicy Potato Soup I,serrano chiles
+12919,1924,Asparagus Soup I,fennel greens
+12922,1925,Cheesy Potato and Corn Chowder,country style gravy mix
+12922,1926,Cheesy Potato and Corn Chowder,Mexican style processed cheese food
+12926,1927,French Onion Soup I,French baguette
+12927,1928,Ham and Bean Soup I,smoked ham hocks
+12930,1929,Cornish Hen Soup,Rock Cornish hens
+12933,1930,Patty's Mom's Black Bean Soup,smoked ham bone
+12935,1931,Cucumber Soup I,farina
+12936,1932,Spicy Black and Red Bean Soup,shoepeg corn
+12939,1933,Lobster Soup,celery flakes
+12941,1934,Kidney Bean Soup,pork chops
+12942,1935,Italian Sausage Soup,great Northern beans undrained
+12944,1936,Love Soup Mix in a Jar,twist macaroni
+12944,1937,Love Soup Mix in a Jar,lentils
+12945,1938,Borscht with Meat,dill seed
+12945,1939,Borscht with Meat,Polish sausage
+12949,1940,Green Chile Stew with Pork,boneless pork loin
+12949,1941,Green Chile Stew with Pork,green chile salsa
+12950,1942,Chicken Andouille Gumbo,chicken parts
+12951,1943,The Aztec Five-Step,epazote
+12957,1944,Kitchen Sink Soup,chickpeas
+12957,1945,Kitchen Sink Soup,navy beans
+12960,1946,Moroccan Lentil Soup,red lentils
+12961,1947,Winter's Night Stew,sausage
+12961,1948,Winter's Night Stew,canned red beans
+12961,1949,Winter's Night Stew,vegetable blend
+12963,1950,Greek Lemon Chicken Soup,chicken base
+12966,1951,Seafood Gumbo Stock,shells from shrimp
+12967,1952,Slow Cooker Beef Stew,no salt herb seasoning
+12977,1953,Bologna Potato Soup,bologna
+12978,1954,Egusi Soup,habanero peppers
+12981,1955,Quick Clam Chowder,New England clam chowder
+12982,1956,Basic Vegetable Stock,celery including some leaves
+12984,1957,Basic Beef Stock,beef bones
+12987,1958,Corn and Potato Chowder,non dairy creamer
+12995,1959,Spanish Rice Soup,Mexican style tomatoes
+12998,1960,Meatball Soup,meatballs
+12999,1961,Spicy Black Bean Vegetable Soup,vegetable stock
