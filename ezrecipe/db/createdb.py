@@ -12,24 +12,38 @@ try:
                                 recipe_id INTEGER PRIMARY KEY, \
                                 recipe_name TEXT \
                                 )"
-
+    
+    
     create_ingredients_table_query = "CREATE TABLE ingredients ( \
                                     ingredient_id INTEGER PRIMARY KEY, \
                                     ingredient_name TEXT \
                                     )"
 
     create_recipe_ingredients_table_query = "CREATE TABLE recipe_ingredients ( \
-                                            recipe_ingredient_id INTEGER PRIMARY KEY, \
+                                            recipe_ingredient_id SERIAL PRIMARY KEY, \
                                             recipe_id INTEGER, \
                                             ingredient_id INTEGER, \
-                                            recipe_name TEXT \
+                                            recipe_name TEXT, \
                                             ingredient_name TEXT \
                                             )" 
 
     # Print PostgreSQL version
-    cursor.execute(create_recipe_table_query)
-    cursor.execute(create_ingredients_table_query)
-    cursor.execute(create_recipe_ingredients_table_query)
+    try:
+        cursor.execute(create_recipe_table_query)
+        print("RECIPE table successfully created")
+    except:
+        print("ERROR: Creating RECIPE table failed")
+    try:
+        cursor.execute(create_ingredients_table_query)
+        print("INGREDIENTS table successfully created")
+    except:
+        print("ERROR: Creating INGREDIENTS table failed")
+    try:
+        cursor.execute(create_recipe_ingredients_table_query)
+        print("RECIPE INGREDIENTS table successfully created") 
+    except:
+        print("ERROR: Creating RECIPE INGREDIENTS table failed")
+        
     connection.commit()
 
 except (Exception, psycopg2.DatabaseError) as error :
