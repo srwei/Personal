@@ -10,7 +10,8 @@ try:
     # Print PostgreSQL Connection properties
     create_recipe_table_query = "CREATE TABLE recipes ( \
                                 recipe_id INTEGER PRIMARY KEY, \
-                                recipe_name TEXT \
+                                recipe_name TEXT, \
+                                num_ingredients INTEGER \
                                 )"
     
     
@@ -43,7 +44,7 @@ try:
         print("RECIPE INGREDIENTS table successfully created") 
     except:
         print("ERROR: Creating RECIPE INGREDIENTS table failed")
-        
+
     connection.commit()
 
 except (Exception, psycopg2.DatabaseError) as error :

@@ -30,7 +30,7 @@ measurement_units = ['teaspoons', 'tablespoons', 'cups', 'containers', 'packets'
 		'dashes', 'bunches', 'recipes', 'layers', 'slices', 'links', 'bulbs', 'stalks', 'squares', 'sprigs',
 		'fillets', 'pieces', 'legs', 'thighs', 'cubes', 'granules', 'strips', 'trays', 'leaves', 'loaves', 'halves']
 
-unnecessary_words = ['chunks', 'pieces', 'rings', 'spears', 'up']
+unnecessary_words = ['chunks', 'pieces', 'rings', 'spears', 'up', 'purpose']
 
 preceding_words = ['well', 'very', 'super']
 
@@ -99,7 +99,7 @@ def main():
     ingredientId_increment = 1
 
     # for recipe_id in range(6660, 27000):
-    for recipe_id in range(7000, 13000):
+    for recipe_id in range(7000, 7100):
         ingredient_count = 0
         if recipe_id == 7678:
             continue
@@ -252,14 +252,18 @@ def main():
                 if "," in ingredient_str:
                     ingredient_str.replace(",", "")
 
-                plural_bool = check_plurals(ingredient_str, all_ingredients)
-                if not plural_bool:
+                plural = check_plurals(ingredient_str, all_ingredients)
+                if plural:
+                    all_recipe_ingredients.append([recipe_id, plural[0], title, plural[1]])
+                    print("added ingredient {} to recipe {}".format(plural[1].upper(), title.upper()))
+                else:
                     all_ingredients.append([ingredientId_increment, ingredient_str])
                     all_recipe_ingredients.append([recipe_id, ingredientId_increment, title, ingredient_str])
                     ingredientId_increment += 1
-                    ingredient_count += 1
-                
-                print("finished writing recipe {}".format(title))
+                    print("added ingredient {} to recipe {}".format(ingredient_str.upper(), title.upper()))
+                ingredient_count += 1
+    
+            print("finished writing recipe {}".format(title))
 
             all_recipes.append([recipe_id, title, ingredient_count])
 
