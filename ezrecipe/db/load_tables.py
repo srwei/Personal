@@ -14,7 +14,7 @@ try:
         with open('/Users/stevenwei/Programming/Projects/Personal/ezrecipe/recipes.csv', 'r') as f:
             reader = csv.reader(f)
             for row in reader:
-                cursor.execute("INSERT INTO recipes VALUES (%s, %s)", row)
+                cursor.execute("INSERT INTO recipes VALUES (%s, %s, %s)", row)
             print("Successfully inserted into recipe table")
     except:
         print("Failed insert into recipe table")
